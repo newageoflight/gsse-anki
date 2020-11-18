@@ -1,5 +1,6 @@
 #+TITLE: Anki for GSSE
 
+#+ATTR_ORG: :width 256
 [[./anki-gsse.png]]
 
 Github repository for CrowdAnki JSON representation of our Anki deck.
