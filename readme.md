@@ -1,6 +1,6 @@
 # Anki for GSSE
 
-![Logo](./anki-gsse.png | width=256)
+<img src="./anki-gsse.png" width="256"/>
 
 Github repository for CrowdAnki JSON representation of our Anki deck.
 
