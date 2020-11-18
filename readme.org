@@ -1,0 +1,7 @@
+#+TITLE: Anki for GSSE
+
+Github repository for CrowdAnki JSON representation of our Anki deck.
+
+* Resources to merge [1/2]
+- [X] Mickey's Head and Neck deck
+- [ ] Hyerim's GSSE Qbank
