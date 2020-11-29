@@ -16,9 +16,9 @@
 
 .card-container {
     perspective: 600px;
-    width: 600px;
+    width: 80%;
     clear: both;
-    margin: 10px auto 10px auto;
+    margin: 1.5rem auto 1.5rem auto;
 }
 
 .card-flip {
