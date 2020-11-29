@@ -1,4 +1,6 @@
-#+TITLE: Anki for GSSE style guide by example
+#+TITLE: Anki for GSSE: style guide by example
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="style.css" />
+
 
 #+BEGIN_EXPORT html
 <style>.card {
@@ -50,7 +52,7 @@ Don't neglect the stuff that seems simple. This is an example of a good card:
 ** Rule 4: keep it simple, stupid!
 Anki (and spaced repetition, and human memory in general) works best with information that is /atomised/. That is, if you think you can split it into smaller pieces, *you should*, unless it makes more sense to learn something as a simple relationship (e.g. a pair, an equation, a rule of thumb, etc.).
 
-Unfortunately, most of the cards produced to date break this rule. Don't describe a bunch of triangles on one note, make a separate note for each one. Don't put every detail about a muscle on a single card, split them into smaller ones. I've put a few selected exapmles here to illustrate what I mean.
+Unfortunately, most of the cards produced to date break this rule. Don't describe a bunch of triangles on one note, make a separate note for each one. Don't put every detail about a muscle on a single card, split them into smaller ones. I've put a few selected examples here to illustrate what I mean.
 
 #+BEGIN_EXPORT html
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/534/970/aa6.png" alt="Gone, reduced to atoms" />
@@ -64,7 +66,7 @@ PLEASE, PLEASE, PLEASE DO NOT EVER DO SOMETHING LIKE THIS. THIS IS *BAD*.
 <img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
 #+END_EXPORT
 
-Lengthy, wordy paragraphs do not stick. If you forget 30% of the paragraph, you will have failed the whole card. It makes much more sense to split it into smaller pieces so that you can more easily target the specific aspects you are forgetting.
+Lengthy, wordy paragraphs do not stick. If you forget 10% of the paragraph, you will have failed the whole card. It makes much more sense to split it into smaller pieces so that you can more easily target the specific aspects you are forgetting.
 
 **** Example 2
 By the same token, PLEASE NEVER DO THIS EITHER. I've seen a lot of cards where muscle details and anatomical groups are all bundled together on the same note, when they should really be separate:

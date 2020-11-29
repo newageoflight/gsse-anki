@@ -1,0 +1,56 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.cloze {
+ font-weight: bold;
+ color: blue;
+}
+.nightMode .cloze {
+ color: lightblue;
+}
+
+.card-container {
+    perspective: 600px;
+    width: 600px;
+    clear: both;
+    margin: 10px auto 10px auto;
+}
+
+.card-flip {
+    display: grid;
+    grid-template: 1fr/ 1fr;
+    grid-template-areas: "frontAndBack";
+    transform-style: preserve-3d;
+    transition: all 0.7s ease;
+}
+
+.card-flip div {
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+}
+
+.card-flip > div:nth-child(2) {
+    transform: rotateX(-180deg);
+}
+
+.card-flip > div {
+    grid-area: frontAndBack;
+}
+
+.card-container:hover .card-flip {
+    transform: rotateX(180deg);
+}
+
+.carousel-indicators {
+    bottom: -10px;
+}
+
+.carousel-indicators li {
+    background-color: #000;
+    border-color: #000;
+}
