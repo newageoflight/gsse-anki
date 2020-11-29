@@ -61,7 +61,7 @@ PLEASE, PLEASE, PLEASE DO NOT EVER DO SOMETHING LIKE THIS. THIS IS *BAD*.
 #+BEGIN_EXPORT html
 <div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">[...]</span></div></div>
 <div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">The transverse cervical artery divides at the anterior border of levator scapulae, the ascending branch running up the muscle, the descending branch running down deep to it, in company with the dorsal scapular nerve.</span></div><br>
-<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
 #+END_EXPORT
 
 Lengthy, wordy paragraphs do not stick. If you forget 30% of the paragraph, you will have failed the whole card. It makes much more sense to split it into smaller pieces so that you can more easily target the specific aspects you are forgetting.
@@ -71,7 +71,7 @@ By the same token, PLEASE NEVER DO THIS EITHER. I've seen a lot of cards where m
 #+BEGIN_EXPORT html
 <div class="card">What are the border attachments of the investing layer of the deep cervical fascia? (Posteriorly, anteriorly, superiorly, inferiorly)<div><br></div><div><span class="cloze">[...]</span><br></div></div>
 <div class="card">What are the border attachments of the investing layer of the deep cervical fascia? (Posteriorly, anteriorly, superiorly, inferiorly)<div><br></div><div><span class="cloze"><div><u>Posteriorly</u>: ligamentum nuchae</div><div><u>Anteriorly</u>: Hyoid bone</div><div><u>Superiorly</u> (from backwards to forwards): External occipital protuberance and superior nuchal line, mastoid process, lower border of mandible (chin to angle)</div><div><u>Inferiorly</u> (from backwards to forwards): spine and acromial process of scapula, upper surface of clavicle, suprasternal notch of manubrium</div></span><br></div><br>
-<img src="/Anki_for_GSSE/media/cervical-fascia-8-638.jpg"></div>
+<img src="../Anki_for_GSSE/media/cervical-fascia-8-638.jpg"></div>
 #+END_EXPORT
 
 *** Good
@@ -80,16 +80,16 @@ This kind of information can also be considered an enumeration since it follows 
 #+BEGIN_EXPORT html
 <div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">[landmark]</span>.</div>
 <div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">the anterior border of levator scapulae</span>.<br>
-<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
 <div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">[2]</span> branches.</div>
 <div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">ascending and descending</span> branches.<br>
-<div><br></div><i>So named because the ascending runs up the border of the muscle, and the descending branch runs down&nbsp;</i><div><img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"><i><br></i></div></div>
+<div><br></div><i>So named because the ascending runs up the border of the muscle, and the descending branch runs down&nbsp;</i><div><img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"><i><br></i></div></div>
 <div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">[relation]</span> to the levator scapulae, accompanied by the dorsal scapular nerve</div>
 <div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">deep</span> to the levator scapulae, accompanied by the dorsal scapular nerve<br>
-<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
 <div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">[...]</span> nerve</div>
 <div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">dorsal scapular</span> nerve<br>
-<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
 #+END_EXPORT
 **** Example 2
 This kind of information should really be split into separate cards rather than bundled together all in one.
@@ -957,7 +957,7 @@ It makes far more sense to align this to an anatomical axis or ordering:
 #+BEGIN_EXPORT html
 <div class="card">What are the structures pass through the very apex of the posterior triangle?<div><br></div><div><span class="cloze">[...]</span></div></div>
 <div class="card">What are the structures pass through the very apex of the posterior triangle?<div><br></div><div><span class="cloze">The occipital artery and greater occipital nerve passing up to the scalp.</span></div><br>
-<img src="/Anki_for_GSSE/media//070417_0818_PosteriorTr6.jpg"></div>
+<img src="../Anki_for_GSSE/media//070417_0818_PosteriorTr6.jpg"></div>
 #+END_EXPORT
 *** Good
 #+BEGIN_EXPORT html
