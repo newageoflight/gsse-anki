@@ -7,8 +7,8 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "01fe3855-2931-11eb-9f8c-70bc10783919",
-                    "deck_config_uuid": "01fe3856-2931-11eb-bbf1-70bc10783919",
+                    "crowdanki_uuid": "6d42278d-316b-11eb-8f2b-70bc10783919",
+                    "deck_config_uuid": "6d42519d-316b-11eb-8e15-70bc10783919",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -76,8 +76,10 @@
                                 "<img src=\"neck-muscles.gif\">"
                             ],
                             "guid": "dOf+J|hWrm",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -86,8 +88,10 @@
                                 ""
                             ],
                             "guid": "AH^.JQ&-/A",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::good"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -96,7 +100,7 @@
                                 ""
                             ],
                             "guid": "E>V,v:dj{)",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -106,7 +110,7 @@
                                 ""
                             ],
                             "guid": "mpZ0k.U#4u",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -116,8 +120,10 @@
                                 ""
                             ],
                             "guid": "H^*:lyrE=t",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -126,7 +132,7 @@
                                 "Thus seperating \"mouth from neck\""
                             ],
                             "guid": "G__F/FdWo[",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -136,7 +142,7 @@
                                 ""
                             ],
                             "guid": "jt@rCbcV(G",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -146,7 +152,7 @@
                                 "<img src=\"2bd098df70b90b9b7d3307b35157330228618b12.png\">"
                             ],
                             "guid": "CG3Z!wwiwa",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -156,7 +162,7 @@
                                 ""
                             ],
                             "guid": "z@Aal{/*/@",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -166,8 +172,10 @@
                                 ""
                             ],
                             "guid": "u{.wOg/7Q[",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -176,7 +184,7 @@
                                 ""
                             ],
                             "guid": "deP#HcVE5#",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -196,7 +204,7 @@
                                 ""
                             ],
                             "guid": "wEC2G(cUp]",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -216,7 +224,7 @@
                                 ""
                             ],
                             "guid": "sAj?)[=5Sv",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -236,7 +244,7 @@
                                 ""
                             ],
                             "guid": "n?Hs=IE]1M",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -256,7 +264,7 @@
                                 ""
                             ],
                             "guid": "CcWeJ+@<j_",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -276,7 +284,7 @@
                                 ""
                             ],
                             "guid": "L=!ftJH@b*",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -296,7 +304,7 @@
                                 ""
                             ],
                             "guid": "y${U}EO4$J",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -316,7 +324,7 @@
                                 ""
                             ],
                             "guid": "M|(E(UO7Rs",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -336,7 +344,7 @@
                                 ""
                             ],
                             "guid": "b.i!-mGk)V",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -356,7 +364,7 @@
                                 ""
                             ],
                             "guid": "k+hWUL-f2G",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -376,7 +384,7 @@
                                 ""
                             ],
                             "guid": "Q/2#no)vtm",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -396,7 +404,7 @@
                                 ""
                             ],
                             "guid": "CP~;D?4n^!",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -416,7 +424,7 @@
                                 ""
                             ],
                             "guid": "L*:_P8Tw70",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -436,7 +444,7 @@
                                 ""
                             ],
                             "guid": "s%1uG:Q)B}",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -456,7 +464,7 @@
                                 ""
                             ],
                             "guid": "HR*h[UIo:[",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -476,7 +484,7 @@
                                 ""
                             ],
                             "guid": "nkRLjOMkCc",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -496,7 +504,7 @@
                                 ""
                             ],
                             "guid": "HVpjL7Lmmy",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -506,8 +514,10 @@
                                 "<img src=\"cervical-fascia-8-638.jpg\">"
                             ],
                             "guid": "j`J^AkX]/B",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -516,8 +526,10 @@
                                 ""
                             ],
                             "guid": "D/ac%j34@D",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -526,7 +538,7 @@
                                 ""
                             ],
                             "guid": "LzoVYk9[Cf",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -536,7 +548,7 @@
                                 ""
                             ],
                             "guid": "I;p6fqLUNG",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -546,7 +558,7 @@
                                 "It can be traced from the angle to the lower end of the stylohyoid ligament."
                             ],
                             "guid": "cL{1ZUcQ,X",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -556,8 +568,11 @@
                                 "<img src=\"070417_0758_DeepCervica5.jpg\">"
                             ],
                             "guid": "sh6:;.zG%o",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -566,8 +581,10 @@
                                 "<img src=\"070417_0758_DeepCervica1.jpg\">"
                             ],
                             "guid": "GG2Dt3$H]s",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -576,8 +593,10 @@
                                 ""
                             ],
                             "guid": "l6s9RSE:Bf",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -586,7 +605,7 @@
                                 ""
                             ],
                             "guid": "g<q;^MD[>l",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -596,7 +615,7 @@
                                 "<img src=\"paste-0c20a0ea9788af4cdfa8c144d22ba43818bda393.jpg\">"
                             ],
                             "guid": "i5WqJU&Br~",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -606,8 +625,10 @@
                                 ""
                             ],
                             "guid": "o/:fl`y=?]",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -616,7 +637,7 @@
                                 ""
                             ],
                             "guid": "po~Ousw|v)",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -626,7 +647,7 @@
                                 ""
                             ],
                             "guid": "O/fP^:;hkS",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -636,8 +657,10 @@
                                 "<img src=\"b3a871779693ca807d10ab4a38c3ba21.jpg\">"
                             ],
                             "guid": "CS)Fsa>=CO",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -646,7 +669,7 @@
                                 "This is to allow the vein to dilate freely during times of increased venous return."
                             ],
                             "guid": "CYoc,b2N%V",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -656,8 +679,11 @@
                                 "<img src=\"1-s2.0-S1472029910000391-gr1.jpg\">"
                             ],
                             "guid": "IBQP1YA~Ch",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -666,8 +692,10 @@
                                 "<img src=\"Diagram-of-the-Pretracheal-Fascia-Layer-of-the-Neck-Labelled.png\">"
                             ],
                             "guid": "y!WXFaFn^q",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -676,8 +704,11 @@
                                 "<img src=\"3-s2.0-B9780323289450000041-f04-08-9780323289450.jpg\"><div><img src=\"HN027.png\"><br></div>"
                             ],
                             "guid": "smwn0}Pnp5",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -686,8 +717,11 @@
                                 "Last's says \"[The pretracheal fascia] splits&nbsp;to&nbsp;enclose&nbsp;the&nbsp;thyroid&nbsp;gland,&nbsp;to&nbsp;which&nbsp;it&nbsp;is&nbsp;not&nbsp;adherent&nbsp;except&nbsp;between&nbsp;the&nbsp;isthmus&nbsp;and&nbsp;second,&nbsp;third&nbsp;and&nbsp;fourth&nbsp;rings&nbsp;of&nbsp;the&nbsp;trachea. ##(needs confirmation)"
                             ],
                             "guid": "x4U>+?=KfP",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -696,8 +730,11 @@
                                 ""
                             ],
                             "guid": "g-~VNz3;,H",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -706,7 +743,7 @@
                                 "<img src=\"p05f003a.gif\">"
                             ],
                             "guid": "E7-a/&pR5c",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -716,7 +753,7 @@
                                 "<img src=\"HN027.png\">"
                             ],
                             "guid": "G-<iT%r.}p",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -726,7 +763,7 @@
                                 "As to be expected as the vein must be free to dilate during increased venous return."
                             ],
                             "guid": "wuY1(vXl-;",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -736,8 +773,10 @@
                                 "<img src=\"0c02c3336d6b0f4eccbdfea746ba2bc3.jpg\">"
                             ],
                             "guid": "(:l*>bKc(",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -746,7 +785,7 @@
                                 ""
                             ],
                             "guid": "zmf1A.ecXF",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -756,8 +795,11 @@
                                 ""
                             ],
                             "guid": "o(}Ko,zn`R",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -766,8 +808,11 @@
                                 ""
                             ],
                             "guid": "og~j5SZ4}|",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -776,8 +821,11 @@
                                 ""
                             ],
                             "guid": "E)<~>|6[PJ",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -786,8 +834,10 @@
                                 "<img src=\"1d6956b889bb729fbdd2c7b25c321b79.jpg\">"
                             ],
                             "guid": "H_-A)<s}&1",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -796,8 +846,10 @@
                                 "<img src=\"paste-c2255ed3276536db06f93ed6cfee1b50d0f13930.jpg\">"
                             ],
                             "guid": "P2BFXuM/{_",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -806,8 +858,11 @@
                                 "<img src=\"paste-8868af300629bd6ad648a90ef665e9aabf8fe7c8.jpg\"><div><img src=\"paste-2a35b508df49d1fc937182be7203bcd5aedbffed.jpg\"><br></div>"
                             ],
                             "guid": "Ib>F1@pxOD",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -816,7 +871,7 @@
                                 ""
                             ],
                             "guid": "FPZ67Rvw|2",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -826,8 +881,11 @@
                                 "<img src=\"12352.myextj\">"
                             ],
                             "guid": "oRp`=:6Ah]",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -836,16 +894,18 @@
                                 ""
                             ],
                             "guid": "AqjbAs./VJ",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         }
                     ]
                 },
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "02000bb5-2931-11eb-8e18-70bc10783919",
-                    "deck_config_uuid": "02000bb6-2931-11eb-8cff-70bc10783919",
+                    "crowdanki_uuid": "6d46b9f9-316b-11eb-88ce-70bc10783919",
+                    "deck_config_uuid": "6d46e0e6-316b-11eb-bd47-70bc10783919",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -973,7 +1033,7 @@
                                 ""
                             ],
                             "guid": "E}p[_=xaNM",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -983,7 +1043,7 @@
                                 ""
                             ],
                             "guid": "EX3E0Rgek0",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -993,8 +1053,11 @@
                                 "<img src=\"Copy_of_Musculi_coli_base,_my_edits_for_tringles,_labeled_trianglesanteriorT.svg\">"
                             ],
                             "guid": "rrN?pe7D72",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1003,7 +1066,7 @@
                                 ""
                             ],
                             "guid": "oXoMHc_A9D",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1013,8 +1076,10 @@
                                 "<img src=\"ij_landmark2.jpg\">"
                             ],
                             "guid": "FA}3J{sp#J",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::13::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1023,7 +1088,7 @@
                                 ""
                             ],
                             "guid": "D)B$Xj~r|;",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1033,8 +1098,11 @@
                                 "Cannot find an image of muscular components online, but clinical importance with locating accessory nerve, particularly during selective neck dissections when delineating 2a and 2b nodal levels.<div><br></div><div><img src=\"B9781455709885000063_f06-01-9781455709885.jpg\"><br></div>"
                             ],
                             "guid": "MsNpPZ?~$T",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1043,8 +1111,10 @@
                                 ""
                             ],
                             "guid": "KLZSn/P*v#",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1053,8 +1123,10 @@
                                 ""
                             ],
                             "guid": "P`z^z2YA;5",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1063,7 +1135,7 @@
                                 ""
                             ],
                             "guid": "i!<]UF&;VR",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1073,7 +1145,7 @@
                                 "<img src=\"B9781455709885000063_f06-01-9781455709885.jpg\">"
                             ],
                             "guid": "zizN7-gwjF",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1083,7 +1155,7 @@
                                 "<div>Meanwhile, those supplying the trapezius receive the usual contralateral innervation.</div>The&nbsp;reason&nbsp;is&nbsp;that&nbsp;when,&nbsp;for&nbsp;example,&nbsp;the&nbsp;left&nbsp;upper&nbsp;limb&nbsp;muscles&nbsp;(including&nbsp;trapezius)&nbsp;are&nbsp;being&nbsp;used&nbsp;and&nbsp;the&nbsp;head&nbsp;is&nbsp;turned&nbsp;to&nbsp;that&nbsp;side&nbsp;to&nbsp;see&nbsp;what&nbsp;is&nbsp;going&nbsp;on,&nbsp;it&nbsp;is&nbsp;the&nbsp;right&nbsp;sternocleidomastoid&nbsp;that&nbsp;is&nbsp;turning&nbsp;the&nbsp;head&nbsp;to&nbsp;the&nbsp;left;&nbsp;the&nbsp;same&nbsp;(right)&nbsp;cortex&nbsp;controls&nbsp;all&nbsp;the&nbsp;muscles.&nbsp;"
                             ],
                             "guid": "xiy.<TjvM5",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1093,7 +1165,7 @@
                                 ""
                             ],
                             "guid": "c44SZ~wg9-",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1103,7 +1175,7 @@
                                 ""
                             ],
                             "guid": "o}X5c_oS29",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1113,7 +1185,7 @@
                                 "<img src=\"4befdfe552b4ae1eec6137b31e9a56ca.jpg\">"
                             ],
                             "guid": "ENtuP?<xUd",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1133,7 +1205,7 @@
                                 ""
                             ],
                             "guid": "K;B#SW^Wmu",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1153,7 +1225,7 @@
                                 ""
                             ],
                             "guid": "p%PZ)jQaO*",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1173,7 +1245,7 @@
                                 ""
                             ],
                             "guid": "ETRP-:d406",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1193,7 +1265,7 @@
                                 ""
                             ],
                             "guid": "LzcS=L^&rF",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1213,7 +1285,7 @@
                                 ""
                             ],
                             "guid": "yp7X&;Vpg5",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1233,7 +1305,7 @@
                                 ""
                             ],
                             "guid": "HmxG|.t2=O",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1253,7 +1325,7 @@
                                 ""
                             ],
                             "guid": "F?YtcMI$h[",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1273,7 +1345,7 @@
                                 ""
                             ],
                             "guid": "yKcc{<h{wo",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1293,7 +1365,7 @@
                                 ""
                             ],
                             "guid": "lyH/6P1?7)",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1313,7 +1385,7 @@
                                 ""
                             ],
                             "guid": "f|O_#yEy;x",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1333,7 +1405,7 @@
                                 ""
                             ],
                             "guid": "Hm?n#1.@v",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1343,7 +1415,7 @@
                                 ""
                             ],
                             "guid": "I?L+??VMdC",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1353,8 +1425,10 @@
                                 ""
                             ],
                             "guid": "zL08EKTbP^",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::7::good"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1363,8 +1437,10 @@
                                 "<img src=\"paste-3846a98d964b1638c0aa61df2bdc75d96fe0245d.jpg\">"
                             ],
                             "guid": "m0265I?3G|",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1373,8 +1449,10 @@
                                 "<img src=\"070417_0818_PosteriorTr4.jpg\">"
                             ],
                             "guid": "wBzIi9~}%q",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1383,8 +1461,10 @@
                                 "<img src=\"070417_0818_PosteriorTr6.jpg\">"
                             ],
                             "guid": "E?L[dw/:--",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1393,8 +1473,10 @@
                                 ""
                             ],
                             "guid": "c-N`dae#t",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1403,8 +1485,10 @@
                                 ""
                             ],
                             "guid": "t@AoZU[ocP",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1413,7 +1497,7 @@
                                 ""
                             ],
                             "guid": "BzT.*8x*JN",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1423,7 +1507,7 @@
                                 "<img src=\"070417_0818_PosteriorTr2.jpg\">"
                             ],
                             "guid": "b1h>MTjVGL",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1433,7 +1517,7 @@
                                 ""
                             ],
                             "guid": "pci.C<h=rZ",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1443,7 +1527,7 @@
                                 ""
                             ],
                             "guid": "jA@s:YS`7w",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1453,8 +1537,10 @@
                                 "<img src=\"Thyrocervical_trunk.png\">"
                             ],
                             "guid": "tZFV,sFaFx",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1463,7 +1549,7 @@
                                 ""
                             ],
                             "guid": "mnS1oDHN4c",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1473,8 +1559,10 @@
                                 "<img src=\"070417_0748_Superficial1.jpg\">"
                             ],
                             "guid": "NJQBMT~CR.",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1483,8 +1571,10 @@
                                 "<img src=\"070417_0748_Superficial1.jpg\">"
                             ],
                             "guid": "srgvz*F<>e",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1493,7 +1583,7 @@
                                 ""
                             ],
                             "guid": "OA69{V->2]",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1503,8 +1593,11 @@
                                 "<img src=\"250px-Superficial_and_deep_branches.png\">"
                             ],
                             "guid": "sq412>X.EM",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1513,7 +1606,7 @@
                                 "<img src=\"paste-d7218f8b93f86bf9381c9395fb39b46bfceeebac.jpg\">"
                             ],
                             "guid": "m|AI1(hLd8",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1523,8 +1616,11 @@
                                 ""
                             ],
                             "guid": "F90mlk[IVL",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1533,8 +1629,10 @@
                                 "<img src=\"paste-5411fe56b048666339f41efc9ff0f8895ab396cb.jpg\">"
                             ],
                             "guid": "Q_O}#~4gdq",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1543,8 +1641,11 @@
                                 "<img src=\"image00567-3.jpeg\">"
                             ],
                             "guid": "y!3iab`J`h",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1553,8 +1654,10 @@
                                 ""
                             ],
                             "guid": "BL9YN~.b/_",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1563,8 +1666,11 @@
                                 ""
                             ],
                             "guid": "B^9r&T<ua;",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::13::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1573,8 +1679,11 @@
                                 "<img src=\"3-s2.0-B9780323509510000700-f070-001-9780323509510.jpg\">"
                             ],
                             "guid": "qJ4w)NWR;E",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::16::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1583,8 +1692,10 @@
                                 "<img src=\"F1.large (2).jpg\">"
                             ],
                             "guid": "M*_0>v!yjp",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1593,8 +1704,10 @@
                                 ""
                             ],
                             "guid": "uM3,&?!K-B",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1603,7 +1716,7 @@
                                 ""
                             ],
                             "guid": "FSB&1BZ{OR",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1613,8 +1726,10 @@
                                 "<img src=\"80_hx03.jpg\"><div><img src=\"80_hx01.jpg\"><br></div>"
                             ],
                             "guid": "pI>J^^b8=[",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1623,8 +1738,11 @@
                                 "Although dermatomes are shown to be discrete segments on dermatomal maps (like in the image opposite), they are in fact not; adjacent dermatomes overlap with one another. This is one of the reasons for the variety of different dermatomal maps proposed. <u style=\"\">However, at axial lines, adjacent&nbsp;dermatomes&nbsp;do not overlap.</u>"
                             ],
                             "guid": "Goj$@>e~!h",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1633,7 +1751,7 @@
                                 ""
                             ],
                             "guid": "BdQgp`*%9w",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1643,7 +1761,7 @@
                                 "<img src=\"978-3-319-27482-9_17_Fig8_HTML.jpg\">"
                             ],
                             "guid": "PD&`,1ih-l",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1653,8 +1771,10 @@
                                 "<img src=\"978-3-319-27482-9_17_Fig8_HTML.jpg\">"
                             ],
                             "guid": "gC#v]11b&)",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1663,7 +1783,7 @@
                                 "<img src=\"978-3-319-27482-9_17_Fig8_HTML.jpg\">"
                             ],
                             "guid": "do=JbUtAt$",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1673,8 +1793,10 @@
                                 "<img src=\"997.png\">"
                             ],
                             "guid": "sZFStqLjFK",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1683,8 +1805,10 @@
                                 "<img src=\"997.png\">"
                             ],
                             "guid": "c>iAX0FT37",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1693,8 +1817,10 @@
                                 "<img src=\"paste-7536568799498941fcbfb47e53420ca18916f934.jpg\">"
                             ],
                             "guid": "m:h~wh^KD3",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1703,8 +1829,10 @@
                                 ""
                             ],
                             "guid": "b_0ev6VT7{",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1713,8 +1841,10 @@
                                 ""
                             ],
                             "guid": "o}@ig<%wGA",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1723,8 +1853,10 @@
                                 "These are commonly known as the strap muscles due to their flat shape."
                             ],
                             "guid": "Ij7|I{l1#W",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1733,7 +1865,7 @@
                                 "Another strange yet interesting Last's 'segue'<div><br></div><div>One should picture the rectus sheet as extending from chin to pubic symphysis, supplied segmentally from C1 to T12 spinal nerve but interrupted by intervention from the thoracic cage. There are sometimes remnants of the longitudinal strip sometimes overlying the pectoralis major, an anatomical anomaly called rectus sternalis.<div><img src=\"paste-30215e9b3bf387cb141df930b105a8657e085ce1.jpg\"><br></div></div>"
                             ],
                             "guid": "G*VYCfTgy,",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1743,8 +1875,10 @@
                                 "<img src=\"dkNB2edR8ILWCaohI4v5Sw_digastric.png\">"
                             ],
                             "guid": "yjZ{j.$v2#",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1753,8 +1887,11 @@
                                 ""
                             ],
                             "guid": "L&-hfgwqV@",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1763,7 +1900,7 @@
                                 ""
                             ],
                             "guid": "CD`?V=LD6J",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1773,8 +1910,10 @@
                                 "<img src=\"250px-Musculi_colli_stylohyoideus.svg.png\">"
                             ],
                             "guid": "MR@@c[Q(R]",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1783,8 +1922,10 @@
                                 "<img src=\"Gray177.png\"><div><img src=\"paste-9b6ea744a353831d5b371985e860df2b39c6d662.jpg\"><br></div>"
                             ],
                             "guid": "rjcG^6=s|K",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1793,8 +1934,10 @@
                                 "<img src=\"paste-0cc8db65c7248794bcf083e4cfd8e90c8a9bf69e.jpg\">"
                             ],
                             "guid": "xnoOEqK@|`",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1803,8 +1946,10 @@
                                 ""
                             ],
                             "guid": "EV~:.=bd)C",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1813,8 +1958,10 @@
                                 "<img src=\"images (1).jpg\"><div><img src=\"B9781437706635000384_f29-02-9781437706635.jpg\"><br></div>"
                             ],
                             "guid": "B?ne3X95)2",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1823,7 +1970,7 @@
                                 "<img src=\"97dfa97f9ecfc60402ac69d12f6ba9dd01b94530.jpg\">"
                             ],
                             "guid": "w9R<?eM(p=",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1833,7 +1980,7 @@
                                 ""
                             ],
                             "guid": "iin3SIb@XT",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1843,7 +1990,7 @@
                                 ""
                             ],
                             "guid": "w)vs9C$%;<",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1853,7 +2000,7 @@
                                 ""
                             ],
                             "guid": "sq_>PmX^~?",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1863,8 +2010,10 @@
                                 "N.B. Last's says that the oblique line of thyroid is the INSERTION. However, common sense and etymology suggests that the prefix thyro- would indicate origin. I will investigate into this and possibly change this note. In fact, this note applies to the other infrahyoid muscles."
                             ],
                             "guid": "NRCdQXq}WX",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1873,8 +2022,10 @@
                                 ""
                             ],
                             "guid": "q+:-?%;*ho",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1883,8 +2034,10 @@
                                 ""
                             ],
                             "guid": "LF4*p!IBGK",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1893,7 +2046,7 @@
                                 ""
                             ],
                             "guid": "E(j%;a%ZwD",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1903,8 +2056,10 @@
                                 ""
                             ],
                             "guid": "vA-]w[&1!@",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1913,8 +2068,10 @@
                                 ""
                             ],
                             "guid": "j]UY?nDC9P",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1923,7 +2080,7 @@
                                 ""
                             ],
                             "guid": "s,2aUZ>&g{",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1933,7 +2090,7 @@
                                 ""
                             ],
                             "guid": "OglGT(:X*2",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1953,7 +2110,7 @@
                                 ""
                             ],
                             "guid": "dCwb}S+=-k",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1973,7 +2130,7 @@
                                 ""
                             ],
                             "guid": "PuQ)OcYH+!",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -1993,7 +2150,7 @@
                                 ""
                             ],
                             "guid": "ym<^r#d5vv",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2013,7 +2170,7 @@
                                 ""
                             ],
                             "guid": "E3[0xA1;80",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2033,7 +2190,7 @@
                                 ""
                             ],
                             "guid": "vKI*=@*)Y.",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2053,7 +2210,7 @@
                                 ""
                             ],
                             "guid": "GSGPv3@)V[",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2073,7 +2230,7 @@
                                 ""
                             ],
                             "guid": "qRL,~%IRbs",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2093,7 +2250,7 @@
                                 ""
                             ],
                             "guid": "g17W|IESvs",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2113,7 +2270,7 @@
                                 ""
                             ],
                             "guid": "b7*5C1oC[b",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2133,7 +2290,7 @@
                                 ""
                             ],
                             "guid": "PDdUVo$CGm",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2153,7 +2310,7 @@
                                 ""
                             ],
                             "guid": "dRM6$Fc<X0",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2173,7 +2330,7 @@
                                 ""
                             ],
                             "guid": "s`{&1uR8lQ",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2193,7 +2350,7 @@
                                 ""
                             ],
                             "guid": "LymtwQ4twb",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2213,7 +2370,7 @@
                                 ""
                             ],
                             "guid": "LA1uxaz={w",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2233,7 +2390,7 @@
                                 ""
                             ],
                             "guid": "IH~vX:_%iy",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2253,7 +2410,7 @@
                                 ""
                             ],
                             "guid": "iMZEqSfxKh",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2273,7 +2430,7 @@
                                 ""
                             ],
                             "guid": "wVMIk|_+P$",
-                            "note_model_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+                            "note_model_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2283,7 +2440,7 @@
                                 ""
                             ],
                             "guid": "A,$xe5BZw[",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2293,8 +2450,10 @@
                                 "<img src=\"paste-c8b3ff45fd5d6b590b2cef17fcda1b1287eda28c.jpg\">"
                             ],
                             "guid": "AZ5C$!,ful",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2303,7 +2462,7 @@
                                 "The upper pole is tucked away beneath the upper end of the sternothyroid, which hence limits extension of an enlarging lobe."
                             ],
                             "guid": "g.Y$M7i!_W",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2313,7 +2472,7 @@
                                 ""
                             ],
                             "guid": "N-$P]`MV(2",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2323,8 +2482,10 @@
                                 ""
                             ],
                             "guid": "on>Ys]p}}#",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2333,8 +2494,10 @@
                                 "<img src=\"cross-section-through-neck-ADTRPA.jpg\">"
                             ],
                             "guid": "h@!fhVT6S|",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2343,7 +2506,7 @@
                                 "<img src=\"3-s2.0-B9780702043512000223-f022-007-9780702043512.jpg\">"
                             ],
                             "guid": "f.q#6+g4dV",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2353,8 +2516,12 @@
                                 "<img src=\"7-Figure4-1.png\"><div>The way I like to rationalise this difference is since the RLN loops from lower down on the left, it is given more chance to go behind the inferior thyroid artery, which originates as thyrocervical trunk from the subclavian artery.</div>"
                             ],
                             "guid": "G1SW8:~<hw",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2363,7 +2530,7 @@
                                 "<img src=\"325687_1_En_5_Fig1_HTML.gif\"><div><img src=\"12382tn.jpg\"><br></div>"
                             ],
                             "guid": "gAzp=ApydV",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2373,8 +2540,11 @@
                                 ""
                             ],
                             "guid": "kqp8(]|zaL",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2383,8 +2553,10 @@
                                 "<img src=\"thyroid-final-part-1-39-638.jpg\">"
                             ],
                             "guid": "NUQfvzey/~",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2393,7 +2565,7 @@
                                 ""
                             ],
                             "guid": "zIzVUu]@K3",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2403,7 +2575,7 @@
                                 ""
                             ],
                             "guid": "dTzd{,v;jh",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2413,8 +2585,10 @@
                                 ""
                             ],
                             "guid": "BZBz?D:?]d",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2423,7 +2597,7 @@
                                 "<img src=\"2-Figure2-1_1539320027256.png\">"
                             ],
                             "guid": "ON0A*hgG9[",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2433,8 +2607,10 @@
                                 ""
                             ],
                             "guid": "jXX=B)#q4$",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2443,7 +2619,7 @@
                                 "<img src=\"3-s2.0-B9781437727647000208-f020-003-9781437727647.jpg\">"
                             ],
                             "guid": "O|z/[=Xs=E",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2453,8 +2629,10 @@
                                 "<img src=\"3-s2.0-B9781437727647000208-f020-003-9781437727647.jpg\">"
                             ],
                             "guid": "cc({oAX`=h",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2463,8 +2641,12 @@
                                 "<img src=\"thyroid-final-part-1-41-638.jpg\">"
                             ],
                             "guid": "iC$+;aT]m(",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::13::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2473,8 +2655,10 @@
                                 "<img src=\"3-s2.0-B9780702043512000223-f022-008-9780702043512.jpg\">"
                             ],
                             "guid": "J)E}zr6?]x",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2483,7 +2667,7 @@
                                 ""
                             ],
                             "guid": "Fb2,TN{|eA",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2493,7 +2677,7 @@
                                 "<img src=\"fig-2-full.png\">"
                             ],
                             "guid": "pEC=L7BxW:",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2503,8 +2687,11 @@
                                 ""
                             ],
                             "guid": "B76~vh2y!]",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2513,7 +2700,7 @@
                                 ""
                             ],
                             "guid": "z%rw$qvouk",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2523,8 +2710,10 @@
                                 ""
                             ],
                             "guid": "gp7cJcV2H^",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::6::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2533,7 +2722,7 @@
                                 "<img src=\"eSt.EzKVMVMKqqu7da-p-Q_b.png\">"
                             ],
                             "guid": "cEnY>f)]-h",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2543,8 +2732,10 @@
                                 ""
                             ],
                             "guid": "Fs0h=.Nyig",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::15::good"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2553,7 +2744,7 @@
                                 "There is actually more detail as seen here<div><img src=\"thyroid-gland-integrated-lecture-drnmugunthan-31-638.jpg\"><br></div><div>But Last's is Last's.</div>"
                             ],
                             "guid": "HqsIL7RFcw",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2563,7 +2754,7 @@
                                 "Vagus nerve filaments traceable to gland but purpose unknown."
                             ],
                             "guid": "o:&p)/q}$Q",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2573,7 +2764,7 @@
                                 ""
                             ],
                             "guid": "P3t06]I2bP",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2583,8 +2774,10 @@
                                 ""
                             ],
                             "guid": "zfRbE_g-fO",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2593,8 +2786,10 @@
                                 ""
                             ],
                             "guid": "k~k=a8;Xuv",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2603,8 +2798,10 @@
                                 "<img src=\"tyroid.png\">"
                             ],
                             "guid": "k1Xx|/P7GA",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2613,7 +2810,7 @@
                                 ""
                             ],
                             "guid": "HUJ`czo+3j",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2623,8 +2820,10 @@
                                 "<img src=\"Parathyroid-Glands-and-Inferior-Thyroid-Artery.jpg\">"
                             ],
                             "guid": "g=]{Kp#?bJ",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2633,8 +2832,10 @@
                                 "<img src=\"Parathyroid-gland-area.jpg\">"
                             ],
                             "guid": "e#rYMA&-H}",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2643,7 +2844,7 @@
                                 ""
                             ],
                             "guid": "kpge*cX`gh",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2653,8 +2854,11 @@
                                 ""
                             ],
                             "guid": "g~{M.lLHh4",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::12::bad",
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2663,7 +2867,7 @@
                                 ""
                             ],
                             "guid": "PoU&BD55sD",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2673,18 +2877,22 @@
                                 ""
                             ],
                             "guid": "I#t(D)gY$q",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div>The superior gland is often called parathyroid {{c1::IV}::roman numeral} as it develops from the {{c1::dorsal diverticulum}} of the {{c1::fourth::first/second/third/fourth}} pharyngeal pouch.<br></div><div>The inferior gand is called parathyroid {{c1::III::roman numeral}}, developed from the {{c1::third::first/second/third/fourth}} pouch but displaced caudally by the descent of the {{c1::thymus::organ}} from the same pouch.</div>",
+                                "<div>The superior gland is often called parathyroid {{c1::IV::roman numeral}} as it develops from the {{c1::dorsal diverticulum}} of the {{c1::fourth::first/second/third/fourth}} pharyngeal pouch.<br></div><div>The inferior gand is called parathyroid {{c1::III::roman numeral}}, developed from the {{c1::third::first/second/third/fourth}} pouch but displaced caudally by the descent of the {{c1::thymus::organ}} from the same pouch.</div>",
                                 ""
                             ],
                             "guid": "dH7:2dll~d",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::7::good"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2693,7 +2901,7 @@
                                 "It therefore has further to migrate than the superior and is more liable to end up in unusual positions. About 10% of inferior glands are found within the capsule of the thymus."
                             ],
                             "guid": "m3<HFo1n]p",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2703,7 +2911,7 @@
                                 ""
                             ],
                             "guid": "D==J@)V+.K",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2713,7 +2921,7 @@
                                 "It acts as an endocrine graft there. If later surgery is required, it is easier to approach an arm than the neck.<div><br></div><div><br></div><div>Note that this is Lasts 9th edition. Surgical practice can be wildly different now.</div>"
                             ],
                             "guid": "N+e{ZdA#xG",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2723,7 +2931,7 @@
                                 ""
                             ],
                             "guid": "v|fLu;GGZ:",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2733,7 +2941,7 @@
                                 ""
                             ],
                             "guid": "B6K@&?G/q:",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2743,7 +2951,7 @@
                                 ""
                             ],
                             "guid": "xq][=Dq7hT",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2753,7 +2961,7 @@
                                 "<img src=\"thyroidanatomydiagram2ws.jpg\">"
                             ],
                             "guid": "oQ&A}b/*Z_",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2763,7 +2971,7 @@
                                 "While just below the skin at cricoid level, it is 2cm or more deep to the front of the jugular notch."
                             ],
                             "guid": "xoSmK+DA5M",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2773,7 +2981,7 @@
                                 ""
                             ],
                             "guid": "wk,CCkb1b&",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2783,8 +2991,10 @@
                                 "Some surgeons prefer longitudinal as you're staying more to the midline and avoiding any important structures. Lasts says transverse."
                             ],
                             "guid": "G<i9C=]LPo",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2793,8 +3003,11 @@
                                 ""
                             ],
                             "guid": "k3?CK].[jL",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::11::good",
+                                "s20::7::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2803,7 +3016,7 @@
                                 ""
                             ],
                             "guid": "kB>m_NHYWx",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2813,7 +3026,7 @@
                                 "<img src=\"Anatomy-of-esophagus-longitudinal-muscle-LES-lower-esophageal-sphincter-Re-drawn-from.png\">"
                             ],
                             "guid": "dHowc!c_|b",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2823,7 +3036,7 @@
                                 "This is because the sheath is connected anteriorly by fibrous tissue to the fascia on the deep surface of the sternocleidomastoid but free posteriorly."
                             ],
                             "guid": "LG~N2cqUfF",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2833,7 +3046,7 @@
                                 ""
                             ],
                             "guid": "k,u04TC9o(",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2843,7 +3056,7 @@
                                 ""
                             ],
                             "guid": "m}@6?^f_CU",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2853,7 +3066,7 @@
                                 ""
                             ],
                             "guid": "quvzv[)V+r",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2863,7 +3076,7 @@
                                 ""
                             ],
                             "guid": "fAB;j=THr^",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
                             "tags": []
                         },
                         {
@@ -2873,8 +3086,10 @@
                                 ""
                             ],
                             "guid": "ASj$#YnZD,",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2883,8 +3098,11 @@
                                 "<img src=\"Superior-root-of-the-ansa-cervicalis-AC-located-below-the-posterior-belly-of-the.png\"><div>The labelling is somewhat erroneous as the descendens hypoglossi only commences after it branches off the hypoglossal nerve. The label for 'Superior Root AC' is actually pointing here at C1 ventral ramus.</div>"
                             ],
                             "guid": "c>TfThPNFC",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::4::bad",
+                                "s20::9::bad"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2893,14 +3111,16 @@
                                 "<img src=\"paste-7722ad1b0de574d6eb059c2085bc1ae7cac16ed1.jpg\">"
                             ],
                             "guid": "te}`}##9Hb",
-                            "note_model_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
-                            "tags": []
+                            "note_model_uuid": "6d438935-316b-11eb-877b-70bc10783919",
+                            "tags": [
+                                "s20::10::bad"
+                            ]
                         }
                     ]
                 }
             ],
-            "crowdanki_uuid": "01fd4e87-2931-11eb-b656-70bc10783919",
-            "deck_config_uuid": "01fd7575-2931-11eb-9a1b-70bc10783919",
+            "crowdanki_uuid": "6d4116dc-316b-11eb-9950-70bc10783919",
+            "deck_config_uuid": "6d413dce-316b-11eb-97dc-70bc10783919",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -2910,13 +3130,13 @@
             "notes": []
         }
     ],
-    "crowdanki_uuid": "01fc64d3-2931-11eb-9c10-70bc10783919",
-    "deck_config_uuid": "01fc64d4-2931-11eb-a94d-70bc10783919",
+    "crowdanki_uuid": "6d3f6a51-316b-11eb-8673-70bc10783919",
+    "deck_config_uuid": "6d3fc380-316b-11eb-95ce-70bc10783919",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "01fc64d4-2931-11eb-a94d-70bc10783919",
+            "crowdanki_uuid": "6d3fc380-316b-11eb-95ce-70bc10783919",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -2961,7 +3181,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "01fd7575-2931-11eb-9a1b-70bc10783919",
+            "crowdanki_uuid": "6d413dce-316b-11eb-97dc-70bc10783919",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -3006,7 +3226,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "01fe3856-2931-11eb-bbf1-70bc10783919",
+            "crowdanki_uuid": "6d42519d-316b-11eb-8e15-70bc10783919",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -3051,7 +3271,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "02000bb6-2931-11eb-8cff-70bc10783919",
+            "crowdanki_uuid": "6d46e0e6-316b-11eb-bd47-70bc10783919",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -3103,7 +3323,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "01fead16-2931-11eb-b4ae-70bc10783919",
+            "crowdanki_uuid": "6d438935-316b-11eb-877b-70bc10783919",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
             "flds": [
                 {
@@ -3158,7 +3378,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "01fefb55-2931-11eb-b4ff-70bc10783919",
+            "crowdanki_uuid": "6d43fc77-316b-11eb-8ea0-70bc10783919",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {

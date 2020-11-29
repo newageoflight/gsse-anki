@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-11-29 Sun 13:01 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Anki for GSSE style guide by example</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Christopher Chen" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.cacheClassElem = elem.className;
+         elem.cacheClassTarget = target.className;
+         target.className = "code-highlighted";
+         elem.className   = "code-highlighted";
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(elem.cacheClassElem)
+         elem.className = elem.cacheClassElem;
+       if(elem.cacheClassTarget)
+         target.className = elem.cacheClassTarget;
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Anki for GSSE style guide by example</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org383a0f6">1. Recap of SuperMemo&rsquo;s 20 rules (summarised)</a></li>
+<li><a href="#org209e517">2. Examples of good and bad cards from Mickey&rsquo;s deck</a>
+<ul>
+<li><a href="#org58018e8">2.1. Rule 3: build upon the basics</a></li>
+<li><a href="#orgaf8dfdc">2.2. Rule 4: keep it simple, stupid!</a>
+<ul>
+<li><a href="#orgcaa8c58">2.2.1. Bad</a></li>
+<li><a href="#orgffdef80">2.2.2. Good</a></li>
+</ul>
+</li>
+<li><a href="#org31d40ac">2.3. Rule 6: use more visuals</a>
+<ul>
+<li><a href="#orgbde58fd">2.3.1. Bad</a></li>
+<li><a href="#orge822503">2.3.2. Good</a></li>
+</ul>
+</li>
+<li><a href="#org86bd8ee">2.4. Rule 7: mnemonic techniques</a></li>
+<li><a href="#org6dd955b">2.5. Rule 9: sets and lists</a></li>
+<li><a href="#org94ff001">2.6. Rule 10: enumerations</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<style>.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.cloze {
+ font-weight: bold;
+ color: blue;
+}
+.nightMode .cloze {
+ color: lightblue;
+}</style>
+
+<div id="outline-container-org383a0f6" class="outline-2">
+<h2 id="org383a0f6"><span class="section-number-2">1</span> Recap of <a href="https://www.supermemo.com/articles/20rules.htm">SuperMemo&rsquo;s 20 rules</a> (summarised)</h2>
+<div class="outline-text-2" id="text-1">
+<ol class="org-ol">
+<li>Do not learn if you do not understand</li>
+<li>Learn before you memorise: build an overall picture before you make cards</li>
+<li>Build upon the basics: do not neglect the seemingly easy things</li>
+<li>Keep the cards simple: split information into small digestible chunks</li>
+<li>Cloze deletions are easy and effective</li>
+<li>Use visual stimuli to boost retention</li>
+<li>Use mnemonic techniques when possible</li>
+<li>Graphic deletion (image occlusion) is as good as cloze deletion</li>
+<li>Avoid big sets and long lists: break them down into smaller groups if possible</li>
+<li>Avoid enumerations (e.g. having a whole poem on one card): try using smaller overlapped cloze deletions</li>
+<li>Fight to distinguish similar pieces of information from one another and avoid confusion</li>
+<li>Optimise wording so that there are fewer words and bigger impact</li>
+<li>Refer to other memories (perhaps those that you built in the deck earlier)</li>
+<li>Personalise and give examples (to an extent because it is a public deck after all)</li>
+<li>Use vivid and emotional examples (humour is particularly useful)</li>
+<li>Give the context of the answer as a hint to simplify wording</li>
+<li>Redundancy can sometimes be useful and does not break rule 4 e.g. multiple solutions to a problem, multiple explanations of a concept</li>
+<li>Provide sources for your knowledge if possible and relevant (applies esp to anatomy, lots of contradicting information between different textbooks)</li>
+<li>Date-stamp knowledge that can be relatively volatile (not as applicable to GSSE since Last&rsquo;s 9e has been in use for ages, but still applicable to e.g. anatomical variants, new scientific findings)</li>
+<li>Prioritise knowledge that is high yield</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org209e517" class="outline-2">
+<h2 id="org209e517"><span class="section-number-2">2</span> Examples of good and bad cards from Mickey&rsquo;s deck</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org58018e8" class="outline-3">
+<h3 id="org58018e8"><span class="section-number-3">2.1</span> Rule 3: build upon the basics</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Don&rsquo;t neglect the stuff that seems simple. This is an example of a good card:
+</p>
+<div class="card">Which cervical nerve does not supply any skin?<div><br></div><div><span class="cloze">C1</span></div><br>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgaf8dfdc" class="outline-3">
+<h3 id="orgaf8dfdc"><span class="section-number-3">2.2</span> Rule 4: keep it simple, stupid!</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Anki (and spaced repetition, and human memory in general) works best with information that is <i>atomised</i>. That is, if you think you can split it into smaller pieces, <b>do it</b>, unless it makes more sense to learn something as a relationship (e.g. a pair, an equation, a rule of thumb, etc.).
+</p>
+
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/534/970/aa6.png" alt="Gone, reduced to atoms" />
+</div>
+<div id="outline-container-orgcaa8c58" class="outline-4">
+<h4 id="orgcaa8c58"><span class="section-number-4">2.2.1</span> Bad</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<p>
+PLEASE, PLEASE, PLEASE DO NOT EVER DO SOMETHING LIKE THIS. THIS IS <b>BAD</b>.
+</p>
+<div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">[...]</span></div></div>
+<div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">The transverse cervical artery divides at the anterior border of levator scapulae, the ascending branch running up the muscle, the descending branch running down deep to it, in company with the dorsal scapular nerve.</span></div><br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+
+<p>
+Lengthy, wordy paragraphs do not stick. If you forget 30% of the paragraph, you will have failed the whole card. It makes much more sense to split it into smaller pieces so that you can more easily target the specific aspects you are forgetting.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgffdef80" class="outline-4">
+<h4 id="orgffdef80"><span class="section-number-4">2.2.2</span> Good</h4>
+<div class="outline-text-4" id="text-2-2-2">
+<p>
+This kind of information can also be considered an enumeration since it follows a logical sequence. So structure the cards in such a way that they follow a sequence, e.g.:
+</p>
+<div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">[landmark]</span>.</div>
+<div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">the anterior border of levator scapulae</span>.<br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">[2]</span> branches.</div>
+<div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">ascending and descending</span> branches.<br>
+<div><br></div><i>So named because the ascending runs up the border of the muscle, and the descending branch runs down&nbsp;</i><div><img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"><i><br></i></div></div>
+<div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">[relation]</span> to the levator scapulae, accompanied by the dorsal scapular nerve</div>
+<div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">deep</span> to the levator scapulae, accompanied by the dorsal scapular nerve<br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">[...]</span> nerve</div>
+<div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">dorsal scapular</span> nerve<br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+</div>
+</div>
+</div>
+<div id="outline-container-org31d40ac" class="outline-3">
+<h3 id="org31d40ac"><span class="section-number-3">2.3</span> Rule 6: use more visuals</h3>
+<div class="outline-text-3" id="text-2-3">
+</div>
+<div id="outline-container-orgbde58fd" class="outline-4">
+<h4 id="orgbde58fd"><span class="section-number-4">2.3.1</span> Bad</h4>
+<div class="outline-text-4" id="text-2-3-1">
+<p>
+Probably a nit-pick, but do not do something like this:
+</p>
+<div class="card">The middle thyroid vein drains into <span class="cloze">[...]</span></div>
+<div class="card">The middle thyroid vein drains into <span class="cloze">the internal juglular vein.</span><br>
+</div>
+</div>
+</div>
+<div id="outline-container-orge822503" class="outline-4">
+<h4 id="orge822503"><span class="section-number-4">2.3.2</span> Good</h4>
+<div class="outline-text-4" id="text-2-3-2">
+<p>
+<i>Always</i> include an image where you think it would help to illustrate the learning point better, or make it easier to remember.
+</p>
+<div class="card">The middle thyroid vein drains into <span class="cloze">[...]</span></div>
+<div class="card">The middle thyroid vein drains into <span class="cloze">the internal juglular vein.</span><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray1174.png" alt="Middle thyroid vein"/>
+</div>
+
+<p>
+(ok maybe not the best choice of image, but you get the point&#x2026;)
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org86bd8ee" class="outline-3">
+<h3 id="org86bd8ee"><span class="section-number-3">2.4</span> Rule 7: mnemonic techniques</h3>
+<div class="outline-text-3" id="text-2-4">
+<img src="https://ahseeit.com//king-include/uploads/2019/02/50501533_145655746342806_5001693237656182326_n-3102160464.jpg" alt="Brain meme" />
+<p>
+This is honestly a whole discipline in and of itself, but it can all be reduced to the idea that <i>neurons that fire together wire together</i>. That is, memories stick better if you can connect them to more things or use more areas of your brain in the learning process. This includes things like:
+</p>
+<ul class="org-ul">
+<li>Linking memories to personal experiences</li>
+<li>Linking memories to emotional states, particularly strong ones like fear, love, disgust, humour, etc.</li>
+<li>Linking list memory to geospatial ordering (method of loci/memory palace) or a story</li>
+<li>Employing &gt;1 sensorimotor modality when trying to remember something (so use all 5 senses, and do a little dance if you can)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6dd955b" class="outline-3">
+<h3 id="org6dd955b"><span class="section-number-3">2.5</span> Rule 9: sets and lists</h3>
+</div>
+<div id="outline-container-org94ff001" class="outline-3">
+<h3 id="org94ff001"><span class="section-number-3">2.6</span> Rule 10: enumerations</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Christopher Chen</p>
+<p class="date">Created: 2020-11-29 Sun 13:01</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,110 @@
+#+TITLE: Anki for GSSE style guide by example
+
+#+BEGIN_EXPORT html
+<style>.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.cloze {
+ font-weight: bold;
+ color: blue;
+}
+.nightMode .cloze {
+ color: lightblue;
+}</style>
+#+END_EXPORT
+
+* Recap of [[https://www.supermemo.com/articles/20rules.htm][SuperMemo's 20 rules]] (summarised)
+1. Do not learn if you do not understand
+2. Learn before you memorise: build an overall picture before you make cards
+3. Build upon the basics: do not neglect the seemingly easy things
+4. Keep the cards simple: split information into small digestible chunks
+5. Cloze deletions are easy and effective
+6. Use visual stimuli to boost retention
+7. Use mnemonic techniques when possible
+8. Graphic deletion (image occlusion) is as good as cloze deletion
+9. Avoid big sets and long lists: break them down into smaller groups if possible
+10. Avoid enumerations (e.g. having a whole poem on one card): try using smaller overlapped cloze deletions
+11. Fight to distinguish similar pieces of information from one another and avoid confusion
+12. Optimise wording so that there are fewer words and bigger impact
+13. Refer to other memories (perhaps those that you built in the deck earlier)
+14. Personalise and give examples (to an extent because it is a public deck after all)
+15. Use vivid and emotional examples (humour is particularly useful)
+16. Give the context of the answer as a hint to simplify wording
+17. Redundancy can sometimes be useful and does not break rule 4 e.g. multiple solutions to a problem, multiple explanations of a concept
+18. Provide sources for your knowledge if possible and relevant (applies esp to anatomy, lots of contradicting information between different textbooks)
+19. Date-stamp knowledge that can be relatively volatile (not as applicable to GSSE since Last's 9e has been in use for ages, but still applicable to e.g. anatomical variants, new scientific findings)
+20. Prioritise knowledge that is high yield
+* Examples of good and bad cards from Mickey's deck
+** Rule 3: build upon the basics
+Don't neglect the stuff that seems simple. This is an example of a good card:
+#+BEGIN_EXPORT html
+<div class="card">Which cervical nerve does not supply any skin?<div><br></div><div><span class="cloze">C1</span></div><br>
+</div>
+#+END_EXPORT
+
+** Rule 4: keep it simple, stupid!
+Anki (and spaced repetition, and human memory in general) works best with information that is /atomised/. That is, if you think you can split it into smaller pieces, *do it*, unless it makes more sense to learn something as a relationship (e.g. a pair, an equation, a rule of thumb, etc.).
+
+#+BEGIN_EXPORT html
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/534/970/aa6.png" alt="Gone, reduced to atoms" />
+#+END_EXPORT
+*** Bad
+PLEASE, PLEASE, PLEASE DO NOT EVER DO SOMETHING LIKE THIS. THIS IS *BAD*.
+#+BEGIN_EXPORT html
+<div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">[...]</span></div></div>
+<div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">The transverse cervical artery divides at the anterior border of levator scapulae, the ascending branch running up the muscle, the descending branch running down deep to it, in company with the dorsal scapular nerve.</span></div><br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+#+END_EXPORT
+
+Lengthy, wordy paragraphs do not stick. If you forget 30% of the paragraph, you will have failed the whole card. It makes much more sense to split it into smaller pieces so that you can more easily target the specific aspects you are forgetting.
+
+*** Good
+This kind of information can also be considered an enumeration since it follows a logical sequence. So structure the cards in such a way that they follow a sequence, e.g.:
+#+BEGIN_EXPORT html
+<div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">[landmark]</span>.</div>
+<div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">the anterior border of levator scapulae</span>.<br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">[2]</span> branches.</div>
+<div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">ascending and descending</span> branches.<br>
+<div><br></div><i>So named because the ascending runs up the border of the muscle, and the descending branch runs down&nbsp;</i><div><img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"><i><br></i></div></div>
+<div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">[relation]</span> to the levator scapulae, accompanied by the dorsal scapular nerve</div>
+<div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">deep</span> to the levator scapulae, accompanied by the dorsal scapular nerve<br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">[...]</span> nerve</div>
+<div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">dorsal scapular</span> nerve<br>
+<img src="../Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+#+END_EXPORT
+** Rule 6: use more visuals
+*** Bad
+Probably a nit-pick, but do not do something like this:
+#+BEGIN_EXPORT html
+<div class="card">The middle thyroid vein drains into <span class="cloze">[...]</span></div>
+<div class="card">The middle thyroid vein drains into <span class="cloze">the internal juglular vein.</span><br>
+</div>
+#+END_EXPORT
+*** Good
+/Always/ include an image where you think it would help to illustrate the learning point better, or make it easier to remember.
+#+BEGIN_EXPORT html
+<div class="card">The middle thyroid vein drains into <span class="cloze">[...]</span></div>
+<div class="card">The middle thyroid vein drains into <span class="cloze">the internal juglular vein.</span><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray1174.png" alt="Middle thyroid vein"/>
+</div>
+#+END_EXPORT
+
+(ok maybe not the best choice of image, but you get the point...)
+** Rule 7: mnemonic techniques
+This is honestly a whole discipline in and of itself, but it can all be reduced to the idea that /neurons that fire together wire together/. That is, memories stick better if you can connect them to more things or use more areas of your brain in the learning process. This includes things like:
+- Linking memories to personal experiences
+- Linking memories to emotional states, particularly strong ones like fear, love, disgust, humour, etc.
+- Linking list memory to geospatial ordering (method of loci/memory palace) or a story
+- Employing >1 sensorimotor modality when trying to remember something (so use all 5 senses, and do a little dance if you can)
+#+BEGIN_EXPORT html
+<img src="https://ahseeit.com//king-include/uploads/2019/02/50501533_145655746342806_5001693237656182326_n-3102160464.jpg" alt="Brain meme" />
+#+END_EXPORT
+** Rule 9: sets and lists
+** Rule 10: enumerations
