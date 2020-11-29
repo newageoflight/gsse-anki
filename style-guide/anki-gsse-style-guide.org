@@ -1,0 +1,981 @@
+#+TITLE: Anki for GSSE style guide by example
+
+#+BEGIN_EXPORT html
+<style>.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.cloze {
+ font-weight: bold;
+ color: blue;
+}
+.nightMode .cloze {
+ color: lightblue;
+}</style>
+#+END_EXPORT
+
+* Recap of [[https://www.supermemo.com/articles/20rules.htm][SuperMemo's 20 rules]] (summarised)
+1. Do not learn if you do not understand
+2. Learn before you memorise: build an overall picture before you make cards
+3. Build upon the basics: do not neglect the seemingly easy things
+4. Keep the cards simple: split information into small digestible chunks
+5. Cloze deletions are easy and effective
+6. Use visual stimuli to boost retention
+7. Use mnemonic techniques when possible
+8. Graphic deletion (image occlusion) is as good as cloze deletion
+9. Avoid big sets and long lists: break them down into smaller groups if possible
+10. Avoid enumerations (e.g. having a whole poem on one card): try using smaller overlapped cloze deletions
+11. Fight to distinguish similar pieces of information from one another and avoid confusion
+12. Optimise wording so that there are fewer words and bigger impact
+13. Refer to other memories (perhaps those that you built in the deck earlier)
+14. Personalise and give examples (to an extent because it is a public deck after all)
+15. Use vivid and emotional examples (humour is particularly useful)
+16. Give the context of the answer as a hint to simplify wording
+17. Redundancy can sometimes be useful and does not break rule 4 e.g. multiple solutions to a problem, multiple explanations of a concept
+18. Provide sources for your knowledge if possible and relevant (applies esp to anatomy, lots of contradicting information between different textbooks)
+19. Date-stamp knowledge that can be relatively volatile (not as applicable to GSSE since Last's 9e has been in use for ages, but still applicable to e.g. anatomical variants, new scientific findings)
+20. Prioritise knowledge that is high yield
+* Examples of good and bad cards from Mickey's deck
+** Rule 3: build upon the basics
+Don't neglect the stuff that seems simple. This is an example of a good card:
+#+BEGIN_EXPORT html
+<div class="card">Which cervical nerve does not supply any skin?<div><br></div><div><span class="cloze">C1</span></div><br>
+</div>
+#+END_EXPORT
+
+** Rule 4: keep it simple, stupid!
+Anki (and spaced repetition, and human memory in general) works best with information that is /atomised/. That is, if you think you can split it into smaller pieces, *you should*, unless it makes more sense to learn something as a simple relationship (e.g. a pair, an equation, a rule of thumb, etc.).
+
+Unfortunately, most of the cards produced to date break this rule. Don't describe a bunch of triangles on one note, make a separate note for each one. Don't put every detail about a muscle on a single card, split them into smaller ones. I've put a few selected exapmles here to illustrate what I mean.
+
+#+BEGIN_EXPORT html
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/534/970/aa6.png" alt="Gone, reduced to atoms" />
+#+END_EXPORT
+*** Bad
+**** Example 1
+PLEASE, PLEASE, PLEASE DO NOT EVER DO SOMETHING LIKE THIS. THIS IS *BAD*.
+#+BEGIN_EXPORT html
+<div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">[...]</span></div></div>
+<div class="card">Describe the path of the transverse cervical artery in the posterior triangle.<div><br></div><div><span class="cloze">The transverse cervical artery divides at the anterior border of levator scapulae, the ascending branch running up the muscle, the descending branch running down deep to it, in company with the dorsal scapular nerve.</span></div><br>
+<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+#+END_EXPORT
+
+Lengthy, wordy paragraphs do not stick. If you forget 30% of the paragraph, you will have failed the whole card. It makes much more sense to split it into smaller pieces so that you can more easily target the specific aspects you are forgetting.
+
+**** Example 2
+By the same token, PLEASE NEVER DO THIS EITHER. I've seen a lot of cards where muscle details and anatomical groups are all bundled together on the same note, when they should really be separate:
+#+BEGIN_EXPORT html
+<div class="card">What are the border attachments of the investing layer of the deep cervical fascia? (Posteriorly, anteriorly, superiorly, inferiorly)<div><br></div><div><span class="cloze">[...]</span><br></div></div>
+<div class="card">What are the border attachments of the investing layer of the deep cervical fascia? (Posteriorly, anteriorly, superiorly, inferiorly)<div><br></div><div><span class="cloze"><div><u>Posteriorly</u>: ligamentum nuchae</div><div><u>Anteriorly</u>: Hyoid bone</div><div><u>Superiorly</u> (from backwards to forwards): External occipital protuberance and superior nuchal line, mastoid process, lower border of mandible (chin to angle)</div><div><u>Inferiorly</u> (from backwards to forwards): spine and acromial process of scapula, upper surface of clavicle, suprasternal notch of manubrium</div></span><br></div><br>
+<img src="/Anki_for_GSSE/media/cervical-fascia-8-638.jpg"></div>
+#+END_EXPORT
+
+*** Good
+**** Example 1
+This kind of information can also be considered an enumeration since it follows a logical sequence. So structure the cards in such a way that they follow a sequence, e.g.:
+#+BEGIN_EXPORT html
+<div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">[landmark]</span>.</div>
+<div class="card">Within the posterior triangle, the transverse cervical artery first divides at <span class="cloze">the anterior border of levator scapulae</span>.<br>
+<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">[2]</span> branches.</div>
+<div class="card">At the anterior border of levator scapulae, the transverse cervical artery divides into <span class="cloze">ascending and descending</span> branches.<br>
+<div><br></div><i>So named because the ascending runs up the border of the muscle, and the descending branch runs down&nbsp;</i><div><img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"><i><br></i></div></div>
+<div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">[relation]</span> to the levator scapulae, accompanied by the dorsal scapular nerve</div>
+<div class="card">The descending branch of the transverse cervical artery runs <span class="cloze">deep</span> to the levator scapulae, accompanied by the dorsal scapular nerve<br>
+<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+<div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">[...]</span> nerve</div>
+<div class="card">The descending branch of the transverse cervical artery runs deep to the levator scapulae, accompanied by the <span class="cloze">dorsal scapular</span> nerve<br>
+<img src="/Anki_for_GSSE/media/250px-Superficial_and_deep_branches.png"></div>
+#+END_EXPORT
+**** Example 2
+This kind of information should really be split into separate cards rather than bundled together all in one.
+#+BEGIN_EXPORT html
+<div class="card">What are the posterior border attachments of the investing layer of the deep cervical fascia?<div><br></div><div><span class="cloze">[1]</span></div></div>
+<div class="card">What are the posterior border attachments of the investing layer of the deep cervical fascia?<div><br></div><div><span class="cloze">Ligamentum nuchae</span></div><br>
+</div>
+<div class="card">What are the anterior border attachments of the investing layer of the deep cervical fascia?<div><br></div><div><span class="cloze">[1]</span></div></div>
+<div class="card">What are the anterior border attachments of the investing layer of the deep cervical fascia?<div><br></div><div><span class="cloze">Hyoid bone</span></div><br>
+</div>
+#+END_EXPORT
+
+The next two subdivisions of this card should be rendered as overlapping clozes. For more on this, see the section on rule 9.
+
+For brevity's sake I'll just use the first subcard as an example.
+
+#+BEGIN_EXPORT html
+<div class="card"><div class="front">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+    <div><span class="cloze">[...]</span></div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div>
+<div class="card"><div class="back">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+    <div><span class="cloze">External occipital protuberance + superior nuchal line</span></div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div>
+<div class="card"><div class="front">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+
+    <div>External occipital protuberance + superior nuchal line</div><div><span class="cloze">[...]</span></div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div>
+<div class="card"><div class="back">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+
+    <div>External occipital protuberance + superior nuchal line</div><div><span class="cloze">Mastoid process</span></div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div>
+<div class="card"><div class="front">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+
+
+    <div>...</div><div>Mastoid process</div><div><span class="cloze">[...]</span></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div>
+<div class="card"><div class="back">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+
+
+    <div>...</div><div>Mastoid process</div><div><span class="cloze">Lower border of mandible (chin to angle)</span></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div>
+<div class="card"><div class="front">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div><span class="cloze">[...]</span></div><div><span class="cloze">[...]</span></div><div><span class="cloze">[...]</span></div>
+  </div>
+</div></div>
+<div class="card"><div class="back">
+  <div class="title">What are the superior border attachments of the investing layer of the deep cervical fascia? (from backwards to forwards)</div>
+  <div class="text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div><span class="cloze">External occipital protuberance + superior nuchal line</span></div><div><span class="cloze">Mastoid process</span></div><div><span class="cloze">Lower border of mandible (chin to angle)</span></div>
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div>
+#+END_EXPORT
+** Rule 6: use more visuals
+*** Bad
+Probably a nit-pick, but do not do something like this:
+#+BEGIN_EXPORT html
+<div class="card">The middle thyroid vein drains into <span class="cloze">[...]</span></div>
+<div class="card">The middle thyroid vein drains into <span class="cloze">the internal juglular vein.</span><br>
+</div>
+#+END_EXPORT
+*** Good
+/Always/ include an image where you think it would help to illustrate the learning point better, or make it easier to remember.
+#+BEGIN_EXPORT html
+<div class="card">The middle thyroid vein drains into <span class="cloze">[...]</span></div>
+<div class="card">The middle thyroid vein drains into <span class="cloze">the internal juglular vein.</span><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray1174.png" alt="Middle thyroid vein"/>
+</div>
+#+END_EXPORT
+
+(ok maybe not the best choice of image, but you get the point...)
+** Rule 7: mnemonic techniques
+This is honestly a whole discipline in and of itself, but it can all be reduced to the idea that /neurons that fire together wire together/. That is, memories stick better if you can connect them to more things or use more areas of your brain in the learning process. This includes things like:
+- Linking memories to personal experiences
+- Linking new memories to old memories
+- Linking memories to emotional states, particularly strong ones like fear, love, disgust, humour, etc.
+- Linking list memory to geospatial ordering (method of loci/memory palace) or a story
+- Employing >1 sensorimotor modality when trying to remember something (so use all 5 senses, and do a little dance if you can)
+ 
+#+BEGIN_EXPORT html
+<img src="https://ahseeit.com//king-include/uploads/2019/02/50501533_145655746342806_5001693237656182326_n-3102160464.jpg" alt="Brain meme" />
+#+END_EXPORT
+*** Bad
+As much as this is a good example of Rule 11, it could be better as far as mnemonics are concerned. While not everyone is a Latin or Greek scholar, knowing where these pretentious-sounding words come from can actually help you a lot in figuring out what other ones with similar roots mean.
+#+BEGIN_EXPORT html
+<div class="card">Tracheotomy implies <span class="cloze">[...]</span>. Tracheostomy involves <span class="cloze">[...]</span>, but the strict distinction between these terms is often ignored.</div>
+<div class="card">Tracheotomy implies <span class="cloze">making an incision in the trachea</span>. Tracheostomy involves <span class="cloze">removing a small part of the wall (making a stoma)</span>, but the strict distinction between these terms is often ignored.<br>
+</div>
+#+END_EXPORT
+*** Good
+It's also in line with rule 4, which is all about /atomising/ information.
+#+BEGIN_EXPORT html
+<div class="card">Tracheotomy implies <span class="cloze">[...]</span>. Tracheostomy involves <span class="cloze">[...]</span>, but the strict distinction between these terms is often ignored.</div>
+<div class="card">Tracheotomy implies <span class="cloze">making an incision in the trachea</span>. Tracheostomy involves <span class="cloze">removing a small part of the wall (making a stoma)</span>, but the strict distinction between these terms is often ignored.<br>
+<br/>Roots: -tomos = cut; -stoma = mouth, opening</div>
+</div>
+#+END_EXPORT
+
+This is another example of a good card using this technique:
+#+BEGIN_EXPORT html
+<div class="card">When the head is in normal position, what happens when both sternocleidomastoids contract simultaneously?<div><br></div><div><span class="cloze">[...]</span><br></div></div>
+<div class="card">When the head is in normal position, what happens when both sternocleidomastoids contract simultaneously?<div><br></div><div><span class="cloze">Head protraction</span><br></div><br>
+That is, the face moves forwards while keeping head vertical and maintaining horizontal gaze (Egyptian dance thing).</div>
+#+END_EXPORT
+** Rules 9 and 10: sets, lists and enumerations
+*** A word on lists and sets in medicine
+Oh boy. Where do I even begin with this.
+
+Ngl, medical knowledge involves a lot of lists and sets, which is why it also abounds in shitty alphabetism mnemonics (think about how many different mnemonics you have heard that go ABCDE or whatever).
+
+However, this doesn't change the fact that lists and sets are not natively easy to remember. In fact, wherever you can, you should try to avoid memorising things as lists or sets. If you have to, they *must* be pinned to some logical order or sequence i.e. convert them into an enumeration. However, enumerations are not much better, and to fix the problems relating to rule 4 that would come with them, we'll be using the Cloze Overlapper addon.
+
+Glutanimate, creator of Cloze Overlapper for Anki, uses [[https://github.com/Glutanimate/cloze-overlapper/wiki/Tips][this algorithm]] for handling sets and lists (and so will we):
+1. Can the list be split into categories?
+   - Yes
+     a. Create a note for the category list AND
+        + Items < 3: use a basic note (or keep them all on 1 card)
+        + Items ≥ 3: consider using an overlapping cloze. Proceed to 2 for the category list.
+     b. Create a note for each category
+        + Items < 3: use a basic note (or keep them all on 1 card)
+        + Items ≥ 3: consider using an overlapping cloze. Proceed to 2 for each category.
+2. Does the list follow a logical sequence?
+   - Yes
+     + Use Cloze Overlapper directly.
+   - No
+     + Proceed with 3.
+3. Can the list be artificially aligned to a meaningful sequence?
+   1) Can the list items be correlated to a temporal or spatial order e.g. order of appearance, anatomical axes, method of loci?
+      + Use Cloze Overlapper, but hint at the sequence criteria in the prompt e.g. from superficial to deep, medial to lateral, etc.
+   2) Can you think of a good mnemonic?
+      + Create another note for the mnemonic
+      + Use Cloze Overlapper
+   3) Is there any other memorisation technique you can employ?
+      + Create additional notes as necessary
+      + Use Cloze Overlapper
+   4) None of the above
+      + Proceed with 4
+4. Can the list be artificially aligned to an arbitrary sequence?
+   - e.g.
+     + The alphabet
+     + By string/word length
+     + By number of subelements
+   - Either way, proceed with 5
+5. Cram the list as many times as you can and hope for the best
+*** Bad
+Don't do something like this:
+
+#+BEGIN_EXPORT html
+<div class="card">What are the elevators of the larynx?<div><br></div><div><span class="cloze">[...]</span><br></div></div>
+<div class="card">What are the elevators of the larynx?<div><br></div><div><span class="cloze"><div>Mylohyoid</div><div>Palatopharyngeus</div><div>Stylopharyngeus</div><div>Salpingopharyngeus</div><div>Inferior constrictor</div></span><br></div><br>
+</div>
+#+END_EXPORT
+
+*** Good
+It makes far more sense to align this to an anatomical axis or ordering:
+#+BEGIN_EXPORT html
+<div class="card"><div class="front">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+    <div><span class="cloze">[...]</span></div><div>...</div><div>...</div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="card"><div class="back">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+    <div><span class="cloze">Salpingopharyngeus</span></div><div>...</div><div>...</div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div><div class="card"><div class="front">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+    <div>Salpingopharyngeus</div><div><span class="cloze">[...]</span></div><div>...</div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="card"><div class="back">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+    <div>Salpingopharyngeus</div><div><span class="cloze">Palatopharyngeus</span></div><div>...</div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div><div class="card"><div class="front">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+    <div>...</div><div>Palatopharyngeus</div><div><span class="cloze">[...]</span></div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="card"><div class="back">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+    <div>...</div><div>Palatopharyngeus</div><div><span class="cloze">Stylopharyngeus</span></div><div>...</div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div><div class="card"><div class="front">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+
+    <div>...</div><div>...</div><div>Stylopharyngeus</div><div><span class="cloze">[...]</span></div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="card"><div class="back">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+
+    <div>...</div><div>...</div><div>Stylopharyngeus</div><div><span class="cloze">Mylohyoid</span></div><div>...</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div><div class="card"><div class="front">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+
+
+    <div>...</div><div>...</div><div>...</div><div>Mylohyoid</div><div><span class="cloze">[...]</span></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="card"><div class="back">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+
+
+    <div>...</div><div>...</div><div>...</div><div>Mylohyoid</div><div><span class="cloze">Inferior pharyngeal constrictor</span></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div><div class="card"><div class="front">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div><span class="cloze">[...]</span></div><div><span class="cloze">[...]</span></div><div><span class="cloze">[...]</span></div><div><span class="cloze">[...]</span></div><div><span class="cloze">[...]</span></div>
+  </div>
+</div></div><div class="card"><div class="back">
+  <div class="title">What are the laryngeal elevator muscles? (superior to inferior)</div>
+  <div class="text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div><span class="cloze">Salpingopharyngeus</span></div><div><span class="cloze">Palatopharyngeus</span></div><div><span class="cloze">Stylopharyngeus</span></div><div><span class="cloze">Mylohyoid</span></div><div><span class="cloze">Inferior pharyngeal constrictor</span></div>
+  </div>
+  <div class="extra"><hr></div>
+  <div class="text"><div class="fullhint"></div></div>
+  <div class="extra">
+  </div>
+</div>
+<script>
+  // remove cloze syntax from revealed hint
+  var hint = document.querySelector('.fullhint>[id^="hint"]')
+  var html = hint.innerHTML.replace(/\[\[oc(\d+)::(.*?)(::(.*?))?\]\]/mg, "$2")
+  hint.innerHTML = html
+  // scroll to cloze
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+      const cloze1 = document.getElementsByClassName("cloze")[0];
+      const rect = cloze1.getBoundingClientRect();
+      const absTop = rect.top + window.pageYOffset;
+      const absBot = rect.bottom + window.pageYOffset;
+      if (absBot >= window.innerHeight) {
+        const height = rect.top - rect.bottom
+        const middle = absTop - (window.innerHeight/2) - (height/2);
+        window.scrollTo(0, middle);};
+    }, 1);
+  }, false);
+</script></div>
+#+END_EXPORT
+
+** Rule 12: optimise wording
+*** Bad
+#+BEGIN_EXPORT html
+<div class="card">What are the structures pass through the very apex of the posterior triangle?<div><br></div><div><span class="cloze">[...]</span></div></div>
+<div class="card">What are the structures pass through the very apex of the posterior triangle?<div><br></div><div><span class="cloze">The occipital artery and greater occipital nerve passing up to the scalp.</span></div><br>
+<img src="/Anki_for_GSSE/media//070417_0818_PosteriorTr6.jpg"></div>
+#+END_EXPORT
+*** Good
+#+BEGIN_EXPORT html
+<div class="card">The <span class="cloze">[structure]</span> and <span class="cloze">[structure]</span> pass up to the scalp via the apex of the posterior triangle</div>
+<div class="card">The <span class="cloze">occipital artery</span> and <span class="cloze">greater occipital nerve</span> pass up to the scalp via the apex of the posterior triangle<br>
+</div>
+<div class="card">The occipital artery and greater occipital nerve pass up to the scalp via the <span class="cloze">[...]</span> of the posterior triangle</div>
+<div class="card">The occipital artery and greater occipital nerve pass up to the scalp via the <span class="cloze">apex</span> of the posterior triangle<br>
+</div>
+<div class="card">The occipital artery and greater occipital nerve pass up to the scalp via the apex of the <span class="cloze">[...]</span></div>
+<div class="card">The occipital artery and greater occipital nerve pass up to the scalp via the apex of the <span class="cloze">posterior triangle</span><br>
+</div>
+#+END_EXPORT
+** Rule 13: refer to other memories
+Technically an extension of rule 7, but this is more useful in terms of thinking back to something you learned earlier and relating it to what you are learning now. I've included a good example of this:
+*** Good
+#+BEGIN_EXPORT html
+<div class="card">The phrenic nerve mostly passes <span class="cloze">[relation]</span> the subclavian vein</div>
+<div class="card">The phrenic nerve mostly passes <span class="cloze">behind</span> the subclavian vein<br>
+However, it is not unusual for it pass anteriorly or even penetrate the vein. This is understood by recalling that the subclavian vein is formed by a coalescence of rich venous plexus in the embryo.</div>
+#+END_EXPORT

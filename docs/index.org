@@ -1,5 +1,0 @@
-#+TITLE: Anki for GSSE
-#+OPTIONS: toc:nil num:nil
-
-* Important links
-- [[file:style-guide/anki-gsse-style-guide.org][Style guide]]
