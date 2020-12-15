@@ -3,3 +3,5 @@
 <img src="./anki-gsse.png" width="256"/>
 
 Github repository for CrowdAnki JSON representation of our Anki deck.
+
+Read the [primer](./primer.md)
