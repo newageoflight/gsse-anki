@@ -41,7 +41,7 @@
     - Coordinating the project, setting goals, calling meetings, etc. is done by the **Project Manager**. However, anyone is free to make suggestions or contribute ideas about the coordination/running of the project at any time.
 - In the long term, we are aiming to facilitate a Wiki-style contribution model with the aim of allowing simultaneous contribution and auditing, as well as greater team flexibility and allowing contributors to contribute to any section of their choice at any time. However the exact implementation of this concept is up for discussion.
 - The Notion acts as a project board for our tasks
-- The Discord server and Facebook Group are where project communication should takes place
+- The Discord server and Facebook Group are where project communication should take place
 - The Github is where finalised cards will be hosted
 
 ## Resources
