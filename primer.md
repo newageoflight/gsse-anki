@@ -49,8 +49,8 @@
 - See the [Resources page on the Notion](https://www.notion.so/4806c46fbd5c414fbddb0bdd1190e2cb?v=7a49161c5eb64e689d832205365e1517) for recommended resources.
 
 ## Organisation
-- Broad project goals and tasks are listed under the (Roadmap)[https://www.notion.so/0293564848c24d7bb1224cc7665d8ebd?v=e00f137ac5b74b52a7d417a14e642f03]
-- Short term and daily tasks will be listed under the (Task List)[https://www.notion.so/c1ca86a78f4641c7931794a5992536f2?v=80471d32cf8f410095f980581752fd52]. This includes things like fixing issues and errata.
+- Broad project goals and tasks are listed under the [Roadmap](https://www.notion.so/0293564848c24d7bb1224cc7665d8ebd?v=e00f137ac5b74b52a7d417a14e642f03)
+- Short term and daily tasks will be listed under the [Task List](https://www.notion.so/c1ca86a78f4641c7931794a5992536f2?v=80471d32cf8f410095f980581752fd52). This includes things like fixing issues and errata.
 
 ## Discussions and questions
 - Feel free to post in the Discord or on Facebook if you have any discussion points or questions to raise!
