@@ -1,4 +1,4 @@
-# Summary of SuperMemo's 20 rules of formulating information
+# Summary of [SuperMemo's 20 rules of formulating information](http://www.supermemo.com/articles/20rules.htm)
 Author: Mickey Kondo
 
 1.    Do not learn if you do not understand
