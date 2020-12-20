@@ -44,6 +44,11 @@
 - The Discord server and Facebook Group are where project communication should take place
 - The Github is where finalised cards will be hosted
 
+## Disciplinary procedures
+- **Contributors** who are not contributing will be given a warning. Enough warnings may result in a call for a vote-kick.
+- **Section leaders** have the right to deassign anyone from their team if they feel they are not contributing enough.
+- **Contributors** who are not contributing enough to the entire project should be notified to the **Project Manager** and subjected to a vote-kick.
+
 ## Resources
 - IT IS OF PARAMOUNT IMPORTANCE THAT EVERYONE USES LAST'S 9TH EDITION
 - See the [Resources page on the Notion](https://www.notion.so/4806c46fbd5c414fbddb0bdd1190e2cb?v=7a49161c5eb64e689d832205365e1517) for recommended resources.
@@ -53,4 +58,4 @@
 - Short term and daily tasks will be listed under the [Task List](https://www.notion.so/c1ca86a78f4641c7931794a5992536f2?v=80471d32cf8f410095f980581752fd52). This includes things like fixing issues and errata.
 
 ## Discussions and questions
-- Feel free to post in the Discord or on Facebook if you have any discussion points or questions to raise!
+- Feel free to post in the Discord or on Facebook if you have any discussion points or questions to raiseo
