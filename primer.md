@@ -58,4 +58,4 @@
 - Short term and daily tasks will be listed under the [Task List](https://www.notion.so/c1ca86a78f4641c7931794a5992536f2?v=80471d32cf8f410095f980581752fd52). This includes things like fixing issues and errata.
 
 ## Discussions and questions
-- Feel free to post in the Discord or on Facebook if you have any discussion points or questions to raiseo
+- Feel free to post in the Discord or on Facebook if you have any discussion points or questions to raise
