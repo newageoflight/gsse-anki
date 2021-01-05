@@ -6,7 +6,7 @@ Github repository for CrowdAnki JSON representation of our Anki deck.
 
 Read the [primer](./primer.md)
 
-## Deck importing instructions
+## Usage instructions
 These instructions assume you already have the [CrowdAnki](https://ankiweb.net/shared/info/1788670778) addon installed.
 
 To import an Anki deck from CrowdAnki JSON:
