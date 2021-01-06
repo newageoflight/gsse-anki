@@ -34,19 +34,6 @@
     - Otherwise, synthesise out of the resources
 - I've made a forum post about [why we can't just directly copy Hyerim's stuff](https://www.notion.so/Forum-4d013ff04c944974a1db10add0b7180f?p=e6c954501e9347489b244869ea98abef)
 
-## Prioritising and handling resources
-- Start with the simplest. We've currently agreed on the following order:
-    - Anatomy
-        1. If possible, McLast's (just to get an understanding)
-        2. Last's and Instant Anatomy (try to combine/reconcile)
-    - Physiology
-        1. Julie Mundy's slides
-        2. Anything closer to BRS Physiology than Ganong's (in terms of style)
-        3. Ganong's/West's
-    - Pathology
-        1. Julie Mundy's slides
-        2. Robbins/Pathoma
-
 ## How this project will work
 - Right now we are operating like this:
     - **Contributors** are assigned to **Teams** led by **Section leaders**. These teams are responsible for completing a subdeck relating to a particular subtopic of the GSSE e.g. Head and Neck Anatomy.
@@ -65,6 +52,19 @@
 ## Resources
 - IT IS OF PARAMOUNT IMPORTANCE THAT EVERYONE USES LAST'S 9TH EDITION
 - See the [Resources page on the Notion](https://www.notion.so/4806c46fbd5c414fbddb0bdd1190e2cb?v=7a49161c5eb64e689d832205365e1517) for recommended resources.
+
+### Prioritising and handling resources
+- Start with the simplest. We've currently agreed on the following order:
+    - Anatomy
+        1. If possible, McLast's (just to get an understanding)
+        2. Last's and Instant Anatomy (try to combine/reconcile)
+    - Physiology
+        1. Julie Mundy's slides
+        2. Anything closer to BRS Physiology than Ganong's (in terms of style)
+        3. Ganong's/West's
+    - Pathology
+        1. Julie Mundy's slides
+        2. Robbins/Pathoma
 
 ## Organisation
 - Broad project goals and tasks are listed under the [Roadmap](https://www.notion.so/0293564848c24d7bb1224cc7665d8ebd?v=e00f137ac5b74b52a7d417a14e642f03)
