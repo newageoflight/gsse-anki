@@ -5,17 +5,16 @@
  </g>
  <g>
   <title>Masks</title>
-  <rect stroke="#2D2D2D" id="80bc8e221f8243a58ec859fef4f9358c-ao-1" height="30" width="131.25" y="22.5" x="235" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-2" height="33.75" width="81.25" y="63.75" x="237.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-3" height="27.5" width="56.25" y="105" x="238.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-4" height="31.25" width="131.25" y="380" x="172.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
+  <rect fill="#00AA7F" x="235" y="22.5" width="131.25" height="30" id="80bc8e221f8243a58ec859fef4f9358c-ao-1" stroke="#2D2D2D"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="237.5" y="63.75" width="81.25" height="33.75" id="80bc8e221f8243a58ec859fef4f9358c-ao-2"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="238.75" y="105" width="56.25" height="27.5" id="80bc8e221f8243a58ec859fef4f9358c-ao-3"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="172.5" y="380" width="131.25" height="31.25" id="80bc8e221f8243a58ec859fef4f9358c-ao-4"/>
   
-  <rect stroke="#2D2D2D" id="80bc8e221f8243a58ec859fef4f9358c-ao-6" height="38.75" width="80" y="151.25" x="971.25" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-7" height="35" width="83.75" y="193.75" x="973.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-8" height="36.25" width="143.75" y="232.5" x="975" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-9" height="37.5" width="101.25" y="338.75" x="976.25" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-10" height="28.75" width="135" y="381.25" x="975" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
-  <rect stroke="#2D2D2D" id="80bc8e221f8243a58ec859fef4f9358c-ao-11" height="36.25" width="148.75" y="415" x="975" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#00AA7F"/>
-  <rect id="80bc8e221f8243a58ec859fef4f9358c-ao-12" height="33.75" width="306.25" y="606.25" x="816.25" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#00AA7F"/>
+  <rect fill="#00AA7F" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="971.25" y="151.25" width="80" height="38.75" id="80bc8e221f8243a58ec859fef4f9358c-ao-6" stroke="#2D2D2D"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="973.75" y="193.75" width="83.75" height="35" id="80bc8e221f8243a58ec859fef4f9358c-ao-7"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="975" y="232.5" width="143.75" height="36.25" id="80bc8e221f8243a58ec859fef4f9358c-ao-8"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="976.25" y="338.75" width="101.25" height="37.5" id="80bc8e221f8243a58ec859fef4f9358c-ao-9"/>
+  <rect fill="#00AA7F" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="975" y="381.25" width="135" height="28.75" id="80bc8e221f8243a58ec859fef4f9358c-ao-10"/>
+  <rect fill="#00AA7F" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="975" y="415" width="148.75" height="36.25" id="80bc8e221f8243a58ec859fef4f9358c-ao-11" stroke="#2D2D2D"/>
  </g>
 </svg>
