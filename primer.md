@@ -1,7 +1,6 @@
 # Primer
 
 ## Important links
-
 - The video primer is up on YouTube: https://youtu.be/fOEhF52Pl1E
 - Our Notion: https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7
 - Our Discord: https://discord.gg/44yz23JDnN
@@ -9,7 +8,6 @@
 - Our Github: https://github.com/newageoflight/gsse-anki
 
 ## If you don't already use Anki
-
 - Read the Anki manual or watch The AnKing's tutorials on YouTube
 - Join UNSW Anki Club as a member for access to Essential Anki and other seminars
 - It's expected that before commencing properly, you'll have at least the following bare minimum Anki knowledge requirements:
@@ -47,7 +45,7 @@
 ## Disciplinary procedures
 - **Contributors** who are not contributing will be given a warning. Enough warnings may result in a call for a vote-kick.
 - **Section leaders** have the right to deassign anyone from their team if they feel they are not contributing enough.
-- **Contributors** who are not contributing enough to the entire project should be notified to the **Project Manager** and subjected to a vote-kick.
+- **Contributors** who are not contributing enough to the entire project should be notified to the **Project Manager** and subjected to a vote-kick. Anyone is free to do the nomination, not just section leaders.
 
 ## Resources
 - IT IS OF PARAMOUNT IMPORTANCE THAT EVERYONE USES LAST'S 9TH EDITION
@@ -57,13 +55,16 @@
 - In line with S20, start with the simplest. We've currently agreed on the following order:
     - Anatomy
         1. Last's and Instant Anatomy (try to combine/reconcile). Use the other resources more as understanding guides.
+- For other areas, most should already be covered by the USMLE merge-in. It's likely that the two most critical non-anatomy areas (physiology and pathology) will be a superset of the USMLE content so here's their resource order:
     - Physiology
-        1. Julie Mundy's slides
+        1. Leon Lai notes, Julie Mundy's slides
         2. Anything closer to BRS Physiology than Ganong's (in terms of style)
         3. Ganong's/West's
     - Pathology
-        1. Julie Mundy's slides
-        2. Robbins/Pathoma
+        1. Leon Lai notes, Julie Mundy's slides
+        2. Anything closer to Pathoma than Robbins
+        3. Robbins
+- As for the others, if there's something that's not covered by the USMLE merge-in, let me know and we'll sort it out.
 
 ## The absolute basics of using Git, Github and Github Desktop
 ### Why you shouldn't be scared of Git
