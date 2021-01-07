@@ -11,7 +11,7 @@
 ## If you don't already use Anki
 
 - Read the Anki manual or watch The AnKing's tutorials on YouTube
-- Join UNSW Anki Club as a member for access to the Essential Anki and other seminars
+- Join UNSW Anki Club as a member for access to Essential Anki and other seminars
 - It's expected that before commencing properly, you'll have at least the following bare minimum Anki knowledge requirements:
     - Vanilla Anki
         - How to make and edit cards
@@ -29,7 +29,7 @@
     - A style guide using examples from Mickey's deck is available here: https://newageoflight.github.io/gsse-anki/style-guide/
     - If you need more references, have a look at [Zanki](https://www.ankipalace.com/step-1-deck) or [WiWa](https://www.reddit.com/r/medicalschoolanki/comments/97ssh3/wiwa_deck_for_step_ii_ck_reupload/)
     - The aim is that cards will have a tags and a breadcrumb trail at the top, but you don't necessarily need to type them yourself. The intent is to add these either on export or using the [Clickable Tags](https://ankiweb.net/shared/info/1739176371) addon.
-- Approac
+- Approach
     - Try to use a "ground-up" approach to anatomy if possible i.e. bones → muscles → vasculature and lymphatics → organs → superficial structures
     - Otherwise, synthesise out of the resources
 - I've made a forum post about [why we can't just directly copy Hyerim's stuff](https://www.notion.so/Forum-4d013ff04c944974a1db10add0b7180f?p=e6c954501e9347489b244869ea98abef)
@@ -54,10 +54,11 @@
 - See the [Resources page on the Notion](https://www.notion.so/4806c46fbd5c414fbddb0bdd1190e2cb?v=7a49161c5eb64e689d832205365e1517) for recommended resources.
 
 ### Prioritising and handling resources
-- Start with the simplest. We've currently agreed on the following order:
+- In line with S20, start with the simplest. We've currently agreed on the following order:
     - Anatomy
-        1. If possible, McLast's (just to get an understanding)
-        2. Last's and Instant Anatomy (try to combine/reconcile)
+        1. Video lecture resources e.g. Acland's, Instant Anatomy Lectures
+        2. If possible, McLast's (just to get an understanding/because it's easier)
+        3. Last's and Instant Anatomy (try to combine/reconcile)
     - Physiology
         1. Julie Mundy's slides
         2. Anything closer to BRS Physiology than Ganong's (in terms of style)
