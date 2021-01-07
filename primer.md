@@ -56,9 +56,7 @@
 ### Prioritising and handling resources
 - In line with S20, start with the simplest. We've currently agreed on the following order:
     - Anatomy
-        1. Video lecture resources e.g. Acland's, Instant Anatomy Lectures
-        2. If possible, McLast's (just to get an understanding/because it's easier)
-        3. Last's and Instant Anatomy (try to combine/reconcile)
+        1. Last's and Instant Anatomy (try to combine/reconcile). Use the other resources more as understanding guides.
     - Physiology
         1. Julie Mundy's slides
         2. Anything closer to BRS Physiology than Ganong's (in terms of style)
@@ -69,7 +67,7 @@
 
 ## The absolute basics of using Git, Github and Github Desktop
 ### Why you shouldn't be scared of Git
-Git is most often used in a programming context but I honestly don't see any reason why non-coders shouldn't adopt it. It is a very powerful and useful version control system that allows for easy reconciliation of conflict, plus it's not particularly hard to learn.
+Git is most often used in a programming context but I honestly don't see any reason why non-coders shouldn't adopt it. It's a very powerful and useful version control system that allows for easy reconciliation of conflict, plus it's not particularly hard to learn.
 
 ### Synchronising and making changes
 1. First clone the Github repo in Github Desktop.
