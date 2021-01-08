@@ -1,11 +1,11 @@
 # Primer
 
 ## Important links
-- The video primer is up on YouTube: https://youtu.be/fOEhF52Pl1E
-- Our Notion: https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7
-- Our Discord: https://discord.gg/44yz23JDnN
-- Our Group: https://www.facebook.com/groups/1300364850298639
-- Our Github: https://github.com/newageoflight/gsse-anki
+- The video primer is up on YouTube: [https://youtu.be/fOEhF52Pl1E](https://youtu.be/fOEhF52Pl1E)
+- Our Notion: [https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7](https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7)
+- Our Discord: [https://discord.gg/44yz23JDnN](https://discord.gg/44yz23JDnN)
+- Our Group: [https://www.facebook.com/groups/1300364850298639](https://www.facebook.com/groups/1300364850298639)
+- Our Github: [https://github.com/newageoflight/gsse-anki](https://github.com/newageoflight/gsse-anki)
 
 ## If you don't already use Anki
 - Read the Anki manual or watch The AnKing's tutorials on YouTube
@@ -30,7 +30,6 @@
 - Approach
     - Try to use a "ground-up" approach to anatomy if possible i.e. bones → muscles → vasculature and lymphatics → organs → superficial structures
     - Otherwise, synthesise out of the resources
-- I've made a forum post about [why we can't just directly copy Hyerim's stuff](https://www.notion.so/Forum-4d013ff04c944974a1db10add0b7180f?p=e6c954501e9347489b244869ea98abef)
 
 ## How this project will work
 - Right now we are operating like this:
@@ -89,3 +88,6 @@ Git is most often used in a programming context but I honestly don't see any rea
 
 ## Discussions and questions
 - Feel free to post in the Discord or on Facebook if you have any discussion points or questions to raise
+
+## FAQ
+- [See here](./faq.md)
