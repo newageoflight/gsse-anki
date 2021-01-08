@@ -4,7 +4,7 @@
 
 Github repository for CrowdAnki JSON representation of our Anki deck.
 
-Read the [primer](./primer.md)
+Read the [primer](./primer.md) and the [FAQ](./faq.md)
 
 ## Usage instructions
 These instructions assume you already have the [CrowdAnki](https://ankiweb.net/shared/info/1788670778) addon installed.
