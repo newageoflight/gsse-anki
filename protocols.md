@@ -14,9 +14,10 @@
     - I didn't consider this enough of a problem for Image Occlusions which is why I haven't developed similar templates for them
     
 ## Export settings
+- If you're not confident with Git or Github, I'd prefer you export an APKG and send it to me for integration. Nonetheless, I still encourage everyone to learn.
 - If exporting an APKG: make sure you uncheck "Include scheduling information". We aren't learning in sync so this is unnecessary.
 - If exporting to CrowdAnki:
-    - Make sure you integrate the changes from the newest commit first!
+    - Make sure you integrate the changes from the newest commit first! Either download the repo as a ZIP or pull it from Github.
     - Once you are sure you have, select the parent folder (i.e. the `gsse-anki` repository) and export here! Don't export into the `Anki_for_GSSE` deck folder otherwise you'll get a deck inside a deck
 
 ## The absolute basics of using Git, Github and Github Desktop
