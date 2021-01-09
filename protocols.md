@@ -16,7 +16,8 @@
 ## Export settings
 - If exporting an APKG: make sure you uncheck "Include scheduling information". We aren't learning in sync so this is unnecessary.
 - If exporting to CrowdAnki:
-    - Select the parent folder (i.e. the `gsse-anki` repository) and export here! Don't export into the `Anki_for_GSSE` deck folder otherwise you'll get a deck inside a deck
+    - Make sure you integrate the changes from the newest commit first!
+    - Once you are sure you have, select the parent folder (i.e. the `gsse-anki` repository) and export here! Don't export into the `Anki_for_GSSE` deck folder otherwise you'll get a deck inside a deck
 
 ## The absolute basics of using Git, Github and Github Desktop
 ### Why you shouldn't be scared of Git
