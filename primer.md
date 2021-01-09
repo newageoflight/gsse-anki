@@ -37,9 +37,10 @@
     - **Section leaders** and **Teams** send final products to the **Auditors** for review, quality control and finalisation.
     - Coordinating the project, setting goals, calling meetings, etc. is done by the **Project Manager**. However, anyone is free to make suggestions or contribute ideas about the coordination/running of the project at any time.
 - In the long term, we are aiming to facilitate a Wiki-style contribution model with the aim of allowing simultaneous contribution and auditing, as well as greater team flexibility and allowing contributors to contribute to any section of their choice at any time. However the exact implementation of this concept is up for discussion.
-- The Notion acts as a project board for our tasks
+- The Notion acts as a project board for our tasks and will contain all the TODOs.
 - The Discord server and Facebook Group are where project communication should take place
 - The Github is where cards will be hosted during the development process. *Everybody is highly encouraged to learn the basics of Git and Github*.
+- For more information on collaboration workflows, see the [protocols](./protocols.md)
 
 ## Disciplinary procedures
 - **Contributors** who are not contributing will be given a warning. Enough warnings may result in a call for a vote-kick.
@@ -64,23 +65,6 @@
         2. Anything closer to Pathoma than Robbins
         3. Robbins
 - As for the others, if there's something that's not covered by the USMLE merge-in, let me know and we'll sort it out.
-
-## The absolute basics of using Git, Github and Github Desktop
-### Why you shouldn't be scared of Git
-Git is most often used in a programming context but I honestly don't see any reason why non-coders shouldn't adopt it. It's a very powerful and useful version control system that allows for easy reconciliation of conflict, plus it's not particularly hard to learn.
-
-### Synchronising and making changes
-1. First clone the Github repo in Github Desktop.
-2. If you want to check for changes on the central server again, click fetch. To receive the changes, click pull.
-3. Whenever you want to make a change to the deck, select the `gsse-anki` folder where the repo is contained and hit "Export" from CrowdAnki.
-4. Go to Github Desktop and commit the changes, making sure to include a message describing what changes you have made.
-    - The convention with Git is to use the present tense in your commit message. Imagine that people will read it like "this commit (your message)" e.g. "this commit updates the thorax cards"
-5. To make sure your changes are synced with the central server, push the changes to server.
-
-### Resources
-- Get a feel for the basics of Git using [this tutorial](https://guides.github.com/activities/hello-world/)
-- I highly recommend you learn the [basic vocabulary of Git](https://guides.github.com/introduction/git-handbook/)
-- [Other good resources made by Github](https://try.github.io/)
 
 ## Organisation
 - Broad project goals and tasks are listed under the [Roadmap](https://www.notion.so/0293564848c24d7bb1224cc7665d8ebd?v=e00f137ac5b74b52a7d417a14e642f03)
