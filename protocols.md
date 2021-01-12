@@ -5,7 +5,7 @@
 
 ## Card types and note models
 - Use the following note models for each basic type. Make them however you want but ensure that you convert the type before exporting to me.
-    - Basic: (doesn't matter)
+    - Basic: (doesn't matter, shouldn't use these if possible)
     - Cloze: `Cloze-chrisc-ff04e`
     - Image Occlusion: (doesn't matter)
     - Cloze Overlapper: `Cloze (overlapping)-chrisc`
@@ -13,11 +13,15 @@
     - The types with my name on them have leech highlighting and clickable tags built in to the template (you still need to download the [Clickable Tags](https://ankiweb.net/shared/info/1739176371) addon ofc...)
     - I didn't consider this enough of a problem for Image Occlusions which is why I haven't developed similar templates for them
     
+## Before sending final products to me
+- Do a self-audit first. Make sure all the cards are S20 compliant as per the [style guide](https://newageoflight.github.io/gsse-anki/style-guide/) and the already-audited cards in the deck.
+- Tag your cards! Follow the scheme I've already outlined.
+
 ## Export settings
 - If you're not confident with Git or Github, I'd prefer you export an APKG and send it to me for integration. Nonetheless, I still encourage everyone to learn.
 - If exporting an APKG: make sure you uncheck "Include scheduling information". We aren't learning in sync so this is unnecessary.
 - If exporting to CrowdAnki:
-    - Make sure you integrate the changes from the newest commit first! Either download the repo as a ZIP or pull it from Github.
+    - ALWAYS integrate the changes from the latest commit first! Import the CrowdAnki folder into your Anki.
     - Once you are sure you have, select the parent folder (i.e. the `gsse-anki` repository) and export here! Don't export into the `Anki_for_GSSE` deck folder otherwise you'll get a deck inside a deck
 
 ## The absolute basics of using Git, Github and Github Desktop
