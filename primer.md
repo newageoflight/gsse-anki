@@ -40,7 +40,7 @@
 - The Notion acts as a project board for our tasks and will contain all the TODOs.
 - The Discord server and Facebook Group are where project communication should take place
 - The Github is where cards will be hosted during the development process. *Everybody is highly encouraged to learn the basics of Git and Github*.
-- For more information on collaboration workflows, see the [protocols](./protocols.md)
+- For more information on collaboration workflows, see the [protocols](./CONTRIBUTING.md)
 
 ## Disciplinary procedures
 - **Contributors** who are not contributing will be given a warning. Enough warnings may result in a call for a vote-kick.
