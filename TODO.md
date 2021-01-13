@@ -1,6 +1,6 @@
 # Anki for GSSE
 
-Audit queue
+Audit queue. Please note that audits may not be fast because I will usually have to ensure that I understand the content well in order to best decide how to represent the information. This is also why the audit deadline is set at April 30.
 
 ### Todo
 
