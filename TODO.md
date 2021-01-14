@@ -4,8 +4,6 @@ Audit queue. Please note that audits may not be fast because I will usually have
 
 ### Todo
 
-- [ ] IR.2  
-- [ ] LL.0  
 - [ ] LL.1  
 - [ ] LL.2  
 - [ ] LL.3  
@@ -15,14 +13,22 @@ Audit queue. Please note that audits may not be fast because I will usually have
 - [ ] LL.7  
 - [ ] LL.8  
 - [ ] LL.9  
+- [ ] LL.10  
+- [ ] LL.11  
+- [ ] LL.12  
+- [ ] LL.13  
+- [ ] LL.14  
+- [ ] LL.15  
 
 ### In Progress
 
 - [ ] HEENTS.19  
+- [ ] IR.2  
 
 ### Done ✓
 
 - [x] IR.1  
 - [x] HEENTS.2  
 - [x] HEENTS.1  
+- [x] LL.0  
 
