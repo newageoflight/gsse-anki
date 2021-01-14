@@ -4,7 +4,6 @@ Audit queue. Please note that audits may not be fast because I will usually have
 
 ### Todo
 
-- [ ] HEENTS.19  
 - [ ] IR.2  
 - [ ] LL.0  
 - [ ] LL.1  
@@ -19,10 +18,11 @@ Audit queue. Please note that audits may not be fast because I will usually have
 
 ### In Progress
 
-- [ ] IR.1  
+- [ ] HEENTS.19  
 
 ### Done ✓
 
+- [x] IR.1  
 - [x] HEENTS.2  
 - [x] HEENTS.1  
 
