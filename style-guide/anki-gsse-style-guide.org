@@ -981,3 +981,8 @@ Technically an extension of rule 7, but this is more useful in terms of thinking
 <div class="card">The phrenic nerve mostly passes <span class="cloze">behind</span> the subclavian vein<br>
 However, it is not unusual for it pass anteriorly or even penetrate the vein. This is understood by recalling that the subclavian vein is formed by a coalescence of rich venous plexus in the embryo.</div>
 #+END_EXPORT
+
+* Additional miscellaneous tips
+- Please use proper punctuation!
+  + It makes things easier to read. For some reason, there are a suspiciously large amount of cards that don't use commas properly.
+  + Oxford commas are preferred where the list items are long or might otherwise run into each other
