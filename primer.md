@@ -30,6 +30,12 @@
 - Approach
     - Try to use a "ground-up" approach to anatomy if possible i.e. bones → muscles → vasculature and lymphatics → organs → superficial structures
     - Otherwise, synthesise out of the resources
+- Begin with the end-user in mind
+    - Everyone has their own preferences and ideas about how they personally like to style and use Anki. However, since this is a deck that is designed to be shared in the public good, it is necessary for us to think more about our end-users than ourselves when making the cards.
+    - To that end, make sure you observe these guidelines:
+        - Read and fully internalise all of S20's rules
+        - Assume the people using our deck may not necessarily be very smart or very keen on surgery - so keep the cards and explanations as simple and un-confusing as possible
+        - Try auditing the cards you make yourself first before sending them to me. Ask yourself: do you enjoy using them? Are they easy to learn from? How easily do they stick? If *you're* not happy with them, don't expect that someone else will be!
 
 ## How this project will work
 - Right now we are operating like this:
@@ -52,18 +58,20 @@
 - See the [Resources page on the Notion](https://www.notion.so/4806c46fbd5c414fbddb0bdd1190e2cb?v=7a49161c5eb64e689d832205365e1517) for recommended resources.
 
 ### Prioritising and handling resources
-- In line with S20, start with the simplest. We've currently agreed on the following order:
+- In line with S20:
+    - For your own personal understanding, start with the simplest/easiest resources.
+    - For making the cards, prefer the recommended texts.
+    - Do not be limited to the recommended texts if you need to add images or explanations to the cards. Though they may be prescribed, it doesn't mean that they're always the best at explaining their own content. Freely use anything from anywhere you can find, as long as it is clear and simple to understand.
+- We've currently agreed on the following order:
     - Anatomy
         1. Last's and Instant Anatomy (try to combine/reconcile). Use the other resources more as understanding guides.
-- For other areas, most should already be covered by the USMLE merge-in. It's likely that the two most critical non-anatomy areas (physiology and pathology) will be a superset of the USMLE content so here's their resource order:
+- For other areas, most should already be covered by the USMLE merge-in. It's likely that the two most critical non-anatomy areas (physiology and pathology) will be a superset of the USMLE content so here's their resource order. Leon Lai and Julie Mundy's resources just happen to be more high yield as well:
     - Physiology
         1. Leon Lai notes, Julie Mundy's slides
-        2. Anything closer to BRS Physiology than Ganong's (in terms of style)
-        3. Ganong's/West's
+        3. Ganong's/West's (however, for personal understanding you should try to find something closer to BRS in style)
     - Pathology
         1. Leon Lai notes, Julie Mundy's slides
-        2. Anything closer to Pathoma than Robbins
-        3. Robbins
+        3. Robbins and Cotran's Pathologic Basis of Disease (however, for personal understanding you should try to find something more like Pathoma)
 - As for the others, if there's something that's not covered by the USMLE merge-in, let me know and we'll sort it out.
 
 ## Organisation
