@@ -27,16 +27,7 @@
     - Once you are sure you have, select the parent folder (i.e. the `gsse-anki` repository) and export here! Don't export into the `Anki_for_GSSE` deck folder otherwise you'll get a deck inside a deck
 
 ## The absolute basics of using Git, Github and Github Desktop
-### Why you shouldn't be scared of Git
-Git is most often used in a programming context but I honestly don't see any reason why non-coders shouldn't adopt it. It's a very powerful and useful version control system that allows for easy reconciliation of conflict, plus it's not particularly hard to learn.
-
-### Synchronising and making changes
-1. First clone the Github repo in Github Desktop.
-2. If you want to check for changes on the central server again, click fetch. To receive the changes, click pull.
-3. Whenever you want to make a change to the deck, select the `gsse-anki` folder where the repo is contained and hit "Export" from CrowdAnki.
-4. Go to Github Desktop and commit the changes, making sure to include a message describing what changes you have made.
-    - The convention with Git is to use the present tense in your commit message. Imagine that people will read it like "this commit (your message)" e.g. "this commit updates the thorax cards"
-5. To make sure your changes are synced with the central server, push the changes to server.
+VIDEO TUTORIAL COMING SOON
 
 ### Resources
 - Get a feel for the basics of Git using [this tutorial](https://guides.github.com/activities/hello-world/)
