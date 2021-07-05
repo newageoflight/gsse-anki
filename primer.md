@@ -58,6 +58,10 @@
 - See the [Resources page on the Notion](https://www.notion.so/4806c46fbd5c414fbddb0bdd1190e2cb?v=7a49161c5eb64e689d832205365e1517) for recommended resources.
 
 ### Prioritising and handling resources
+- Regarding potential content coverage:
+    - Anatomy: focus on the syllabus' stated foci. Last's remains the preferred text for GSSE Anatomy.
+    - Physiology/Pathology/everything else: just about everything on USMLE Step 1 is fair game, including the more out-there stuff like biochem/molecular biology/pharmacology.
+    - Relation to BPT and Radiology exams: it is safe to assume that all BPT content is coverable, as is the anatomy syllabus in Radiology exams.
 - In line with S20:
     - For your own personal understanding, start with the simplest/easiest resources.
     - For making the cards, prefer the recommended texts.
@@ -68,10 +72,10 @@
 - For other areas, most should already be covered by the USMLE merge-in. It's likely that the two most critical non-anatomy areas (physiology and pathology) will be a superset of the USMLE content so here's their resource order. Leon Lai and Julie Mundy's resources just happen to be more high yield as well:
     - Physiology
         1. Leon Lai notes, Julie Mundy's slides
-        3. Ganong's/West's (however, for personal understanding you should try to find something closer to BRS in style)
+        2. Ganong's/West's (however, for personal understanding you should try to find something closer to [BRS Physiology](https://www.amazon.com.au/Brs-Physiology-Linda-S-Costanzo/dp/1496367618) in style)
     - Pathology
         1. Leon Lai notes, Julie Mundy's slides
-        3. Robbins and Cotran's Pathologic Basis of Disease (however, for personal understanding you should try to find something more like Pathoma)
+        2. Robbins and Cotran's Pathologic Basis of Disease (however, for personal understanding you should try to find something more like [Pathoma](https://www.pathoma.com/))
 - As for the others, if there's something that's not covered by the USMLE merge-in, let me know and we'll sort it out.
 
 ## Organisation
