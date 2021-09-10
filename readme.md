@@ -1,3 +1,5 @@
+NOTE: Work on this project will be paused until I finish sitting USMLE Step 2 CK. If you are interested in leading this project in the meantime please email me at [camint3rnal@live.com](mailto:camint3rnal@live.com)
+
 # Anki for GSSE
 
 <img src="./anki-gsse.png" width="256"/>
