@@ -1,11 +1,12 @@
 # Primer
 
 ## Important links
-- The video primer is up on YouTube: [https://youtu.be/fOEhF52Pl1E](https://youtu.be/fOEhF52Pl1E)
-- Our Notion: [https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7](https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7)
-- Our Discord: [https://discord.gg/44yz23JDnN](https://discord.gg/44yz23JDnN)
-- Our Group: [https://www.facebook.com/groups/1300364850298639](https://www.facebook.com/groups/1300364850298639)
-- Our Github: [https://github.com/newageoflight/gsse-anki](https://github.com/newageoflight/gsse-anki)
+- Signup/registration: <https://forms.gle/SgN3EbuEMvfXX9rS8>
+- The video primer is up on YouTube: <https://youtu.be/fOEhF52Pl1E>
+- Our Notion: <https://www.notion.so/Primer-READ-THIS-FIRST-5d575693bb8d4d0284da9a791a4991b7>
+- Our Discord: <https://discord.gg/44yz23JDnN>
+- Our Group: <https://www.facebook.com/groups/1300364850298639>
+- Our Github: <https://github.com/newageoflight/gsse-anki>
 
 ## If you don't already use Anki
 - Read the Anki manual or watch The AnKing's tutorials on YouTube
