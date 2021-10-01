@@ -30,6 +30,7 @@
 VIDEO TUTORIAL COMING SOON
 
 ### Resources
+- A short introduction to [Git in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - Get a feel for the basics of Git using [this tutorial](https://guides.github.com/activities/hello-world/)
 - I highly recommend you learn the [basic vocabulary of Git](https://guides.github.com/introduction/git-handbook/)
 - [Other good resources made by Github](https://try.github.io/)
