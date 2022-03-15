@@ -24,5 +24,5 @@ It's expected that (in accordance with Rule 1 of [Supermemo's 20 rules](http://w
 - [X] Thorax
 - [ ] Abdomen (95%)
 - [ ] Head, neck and spine (61%)
-- [ ] Central nervous system (57&)
+- [ ] Central nervous system (57%)
 - [X] Skull osteology
