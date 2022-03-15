@@ -15,3 +15,14 @@ To import an Anki deck from CrowdAnki JSON:
 2. Go to `File > CrowdAnki: import from disk` and choose the `Anki_for_GSSE` folder from within the downloaded repository.
 
 It's expected that (in accordance with Rule 1 of [Supermemo's 20 rules](http://www.supermemo.com/articles/20rules.htm)) you will have read the appropriate part of Last's (or other text) before you get into the cards for it!
+
+## Sections completed
+
+- [-] Introduction to regional anatomy (50%)
+- [X] Upper limb
+- [X] Lower limb
+- [X] Thorax
+- [-] Abdomen (95%)
+- [-] Head, neck and spine (61%)
+- [-] Central nervous system (57&)
+- [X] Skull osteology
