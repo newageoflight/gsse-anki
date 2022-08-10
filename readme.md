@@ -16,6 +16,8 @@ To import an Anki deck from CrowdAnki JSON:
 
 It's expected that (in accordance with Rule 1 of [Supermemo's 20 rules](http://www.supermemo.com/articles/20rules.htm)) you will have read the appropriate part of Last's (or other text) before you get into the cards for it!
 
+NB: Media is not included in this repository. If you need it please [email me](mailto:camint3rnal@live.com).
+
 ## Sections completed
 
 - [ ] Introduction to regional anatomy (50%)
