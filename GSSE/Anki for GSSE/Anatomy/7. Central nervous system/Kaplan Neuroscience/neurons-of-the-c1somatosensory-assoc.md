@@ -1,0 +1,39 @@
+## Note
+nid: 1661020716784
+model: Cloze-AnKingMaster-04c54
+tags: #AK_Step1_v8::!FLAG_THESE_CARDS::Temporary, #AK_Step1_v8::#FirstAid::12_Neuro_&_Special_Senses::02_Anatomy_&_Physiology::22_Cerebral_cortex_regions, #AK_Step1_v8::Neuro::CerebralCortex, #AK_Step1_v8::Neuro::KaplanNeurology::unorganized, #AK_Step1_v8::Neuro::neurology
+markdown: false
+
+### Text
+<div>
+  Neurons of the <b>{{c1::somatosensory association}} cortex</b>
+  are involved in <u>integration</u> of information processed in
+  the <b>primary somatosensory cortex</b>
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmppMG8vA.png">
+
+### Sketchy
+
+
+### Physeo
+
+
+### Additional Resources
+

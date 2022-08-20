@@ -1,0 +1,122 @@
+{
+    "1661020707807": {
+        "crowdanki_uuid": "a7352a94-8c87-11ec-a985-70bc10783919",
+        "css": ".card {\n font-family: arial;\n font-size: 26px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: cyan;\n}",
+        "did": null,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Text",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Extra",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661020707807,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661020707,
+        "name": "Cloze-7de96",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Cloze",
+                "ord": 0,
+                "qfmt": "<script>qFade=0; if (typeof anki !== 'undefined') anki.qFade=qFade;</script>\n\n{{edit:cloze:Text}}\n<div class=\"timer\" id=\"s2\"></div>\n<script>\n//USER CONFIGURATION START\n//Set Timer Length\nvar minutes = 0\nvar seconds = 15\n//USER CONFIGURATION END\n\nfunction countdown( elementName, minutes, seconds )\n{\n    var element, endTime, hours, mins, msLeft, time;\n    function twoDigits( n )\n    {\n        return (n <= 9 ? \"0\" + n : n); \n    }\n    function updateTimer()\n    {\n        msLeft = endTime - (+new Date);\n\n//USER CUSTOMIZATION- you can edit color and text of the 'time expired' readout under the element.innerHTML\n        if ( msLeft < 1000 ) {\n            element.innerHTML = \"<span style='color:#CC5B5B'>!<br/>!<br/>!<br/>!<br/>!<br/>!</span>\";\n        } else {\n            time = new Date( msLeft );\n            hours = time.getUTCHours();\n            mins = time.getUTCMinutes();\n            element.innerHTML = (hours ? hours + ':' + twoDigits( mins ) : mins) + ':' + twoDigits( time.getUTCSeconds() );\n            setTimeout( updateTimer, time.getUTCMilliseconds() + 500 );\n        }\n    }\n    element = document.getElementById( elementName );\n    endTime = (+new Date) + 1000 * (60*minutes + seconds) + 500;\n    updateTimer();\n}\ncountdown(\"s2\", minutes, seconds ); //2nd value is the minute, 3rd is the seconds\n</script>\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>\n\n{{#Tags}}\n<div id=\"tags-container\">{{clickable::Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\nif (tagContainer.innerHTML.indexOf(\"Missed\") != -1) {\ntagContainer.style.backgroundColor = \"rgba(251,11,11,.2)\";\n} else {\ntagContainer.style.display = \"none\";\n}\n</script>\n{{/Tags}}"
+            }
+        ],
+        "type": 1,
+        "usn": -1,
+        "vers": []
+    },
+    "1661020707808": {
+        "crowdanki_uuid": "a7357a6b-8c87-11ec-80ac-70bc10783919",
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+        "did": null,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661020707808,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661020707,
+        "name": "Basic1",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    }
+}

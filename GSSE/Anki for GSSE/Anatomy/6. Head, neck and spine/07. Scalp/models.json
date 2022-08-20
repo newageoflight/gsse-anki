@@ -1,0 +1,67 @@
+{
+    "1661020707811": {
+        "crowdanki_uuid": "a76b0795-8c87-11ec-abc0-70bc10783919",
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+        "did": null,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Text",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Extra",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661020707811,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661020707,
+        "name": "Cloze-88f0c",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "cavity",
+            "of",
+            "the",
+            "mouth"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Cloze",
+                "ord": 0,
+                "qfmt": "{{cloze:Text}}"
+            }
+        ],
+        "type": 1,
+        "usn": -1,
+        "vers": []
+    }
+}

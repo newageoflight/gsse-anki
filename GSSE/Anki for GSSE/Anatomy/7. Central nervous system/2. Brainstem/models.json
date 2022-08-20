@@ -1,0 +1,121 @@
+{
+    "1661020707790": {
+        "crowdanki_uuid": "e5c76137-3ebe-11eb-ac51-70bc10783919",
+        "css": ".card {\n font-family: \"Open Sans\";\n font-size: 20px;\n text-align: left;\n color: #000000;\n background-color: #eeeeee;\n}\n\n.nightMode .card {\n background-color: #888888;\n}\n\n.cloze {\n font-weight: bold;\n color: #0f52ba;\n}\n\n.nightMode .cloze {\n color: #73c2fb;\n}\n\n.extra {\n color: #0080ff;\n}\n\n.nightMode .extra {\n color: #89cff0;\n}\n\n/*HIGHLIGHTS LEECH CARDS*/\ndiv[class*=\"leech\"] {\n    border-style: solid;\n    border-color: #c02f1d;\n    border-width: 3px;\n    border-radius: 15px;\n}\n\n.tags {\n    font-size: 14px;\n    padding-bottom: 10px;\n}\n\n.nightMode .tags kbd {\n    color: black;\n}\n\n/* adds borders to table */\n.extra table {\n    border-collapse: collapse;\n}\n\n.extra table, .extra th, .extra td {\n    border: 1px solid;\n}",
+        "did": null,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Text",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Extra",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661020707790,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661020707,
+        "name": "Cloze-chrisc-ff04e",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "GSSE::Anatomy::Lower_limb::01._Anterior_thigh::Superficial_nerves"
+        ],
+        "tmpls": [
+            {
+                "afmt": "<div class=\"tags\">{{clickable:Tags}}</div>\n<div class=\"{{Tags}}\">\n{{cloze:Text}}\n</div>\n<hr>\n<div class=\"extra\">{{Extra}}</div>",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Cloze",
+                "ord": 0,
+                "qfmt": "<div class=\"tags\">{{clickable:Tags}}</div>\n<div class=\"{{Tags}}\">\n{{cloze:Text}}\n</div>"
+            }
+        ],
+        "type": 1,
+        "usn": -1,
+        "vers": []
+    },
+    "1661020707813": {
+        "crowdanki_uuid": "a7ab1dfe-8c87-11ec-9605-70bc10783919",
+        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+        "did": null,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661020707813,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661020707,
+        "name": "Basic-d4c89",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1
+    }
+}

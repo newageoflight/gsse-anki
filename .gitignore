@@ -1,1 +1,4 @@
+# Ignore `.ki/` metadata directory.
+.ki/
+
 **/*/media/

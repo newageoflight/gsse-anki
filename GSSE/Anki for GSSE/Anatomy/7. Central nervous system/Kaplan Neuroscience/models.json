@@ -1,0 +1,143 @@
+{
+    "1661020707814": {
+        "crowdanki_uuid": "154b203e-4276-11eb-a3da-70bc10783919",
+        "css": "/*    ANKINGMASTER NOTETYPE VERSION 8   */\n\n/* The AnKing wishes you the best of luck! Be sure to check out our YouTube channel and Instagram for all things Anki and Med School related (including how to customize this card type and use these decks):  \n\t\twww.AnKingMed.com\n\t\t\t@ankingmed    \t\t\t*/\n\n/*~~~~~~~~USER CUSTOMIZATION START~~~~~~~~~*/\n/* You can choose colors at www.htmlcolorcodes.com */\n\n/* TIMER ON/OFF */\n.timer { display: block; } /* 'none' or 'block' */\n/* TAGS ON/OFF DESKTOP & MOBILE*/\n\t #tags-container { display: none; }  /* ‘none’ or ‘block’ */\n.mobile #tags-container { display: none; } /* ‘none’ or ‘block’ */\n/* MOVE TAGS UP FOR 'NO-DISTRACTIONS' ADD-ON */\n#tags-container{ padding-bottom: 0px; } /* 0 normal, 55 to move up */\n/* ANKING IMAGE HYPERLINK ON/OFF */\n\t#pic {display: block; } /* 'none' or 'block' */\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { text-align:left; } \n\n/*FONT SIZE*/\n     /* DESKTOP */ html \n\t{ font-size: 28px; }\n     /* MOBILE */ .mobile\n         { font-size: 28px; }\n\t\t/* NOTE: anything with 'px' will keep a font that size indefinitely, 'rem' is a fraction of this size above and allows all text to change size with the above setting */\n\n/*IPAD ADJUSTMENTS*/\n.ipad .card, .ipad #extra {font-size:28px;}\n.ipad .hints {font-size:24px;}\n.ipad #firstaid, .ipad #sketchy, .ipad #physeo, .ipad #additional { font-size: 20px!important; }\n\n/*HINT FONT SIZE*/ .hints \n\t{ font-size: .85rem; }\n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size*/\n\t#firstaid, #sketchy, #physeo, #additional { font-size: .6rem !important; } \n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size on Mobile*/\n\t.mobile #firstaid, .mobile #sketchy, .mobile #physeo, .mobile #additional { font-size: 20px!important; }\n\n/*FONT STYLE*/\t\n\t.card, kbd { font-family: Arial Greek, Arial; } /*Step exam's font is Arial Greek*/\n/*MAX IMAGE HEIGHT*/\n\timg {max-height: none; }\n /*MAX IMAGE WIDTH*/\n\t\t#extra img, #lecture img, #missed img, #pathoma img, #bnb img {max-width: 85%; }\n\t#firstaid img, #sketchy img, #physeo img, #additional img {max-width: 60%; }\n\n\n/* ~~COLORS~~ */\n/*DEFAULT TEXT COLOR*/ \n\t.card { color: black; }\n/*BACKGROUND COLOR*/ \n\t.card { background-color: #D1CFCE; }\n\t#tags-container { background-color: transparent; }\n    /*TIMER COUNTDOWN COLOR*/\n \t.timer { color: transparent; }\n/* CLOZE COLOR */\n\t.cloze { color: blue; }\n/* \"EXTRA\" FIELD COLOR */\n\t#extra { color: navy; }\n/* HINT COLOR*/\n\ta[href=\"#\"] { color: blue; }\n/* HINT REVEAL COLOR */\n\t.hints { color: #4297F9; }\n   /* Missed Questions Reveal Color */\n\t#missed { color: red; }\n       #missed a[href=\"#\"] { color: red!important; }\n\t.nightMode #missed a[href=\"#\"], .night_mode #missed a[href=\"#\"] { color: red!important; }\n\n/* ~~NIGHT MODE COLORS~~ */\n/* NM DEFAULT TEXT COLOR*/ \n\t.nightMode.card, .night_mode .card\n     { color: #FFFAFA !important; }\n/* NM BACKGROUND COLOR*/ \n\t.nightMode.card, .night_mode .card { background-color: #272828!important; }\n/* NM CLOZE COLOR */\n \t.nightMode .cloze, .night_mode .cloze { color: #4297F9!important; }\n/* NM \"EXTRA\" FIELD COLOR */\n\t.nightMode #extra, .night_mode #extra { color: magenta; }\n/* NM HINT COLOR */\n\t.nightMode a[href=\"#\"], .night_mode a[href=\"#\"] { color: #4297F9!important; }\n/* NM HINT REVEAL COLOR */\n\t.nightMode .hints, .night_mode .hints { color: cyan;}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE*/\nb { color: inherit; }\nu { color: inherit; } \ni  { color: inherit; }\n\n/* ~~~~~~~~END CUSTOMIZATION~~~~~~~~ */\n\nhtml { min-height: 100%; display: flex; flex-direction: column; }\n\n#qa { margin-top: 15px; padding-bottom: 2rem; }\n\n/* Formatting For Timer */\n.timer {\nfont-size: 20px;\nmargin: 12em auto auto auto;\n}\n\n/* Styling For Whole Card*/\n.card {\ntext-align: center;\nfont-size: 1rem;\nheight: 100%;\nmargin: 0px 15px;\nflex-grow: 1;\npadding-bottom: 1em;\n}\n.mobile .card { padding-bottom: 5em; }\n\n/* Details For IMAGES */\n.mobile .card img {max-width: 100%!important; }\n.mobile .card {margin: 0ex .3px;}\n\n#extra img { min-width: 30%; }\n.mobile #extra img, .mobile #lecture img, .mobile #missed img, .mobile #pathoma img, .mobile #bnb img, .mobile #firstaid img, .mobile #sketchy img, .mobile #physeo img, .mobile #additional img {max-width: 100%!important; }\n\n/* Classes for individual cards */\n.image40 img { width: 40%!important; }\n.image50 img { width: 50%!important; }\n.image60 img { width: 60%!important; }\n.image70 img { width: 70%!important; }\n.image80 img { width: 80%!important; }\n.image90 img { width: 90%!important; }\n.image40 img, .image50 img, .image60 img, .image70 img, .image80 img, .image90 img { display:block; margin-right:auto; margin-left: auto; }\n.mobile .image40 img, .mobile .image50 img, .mobile .image60 img, .mobile .image70 img, .mobile .image80 img, .mobile .image90 img {width: auto!important;}\n\n/*Compatibility with Image Style Editor add-on*/\n.mobile .card {--w:100%!important;}\n.card {--w:0%;}\n\n/*Max image width for resize images in editor add-on */\n    .card [class^=ui-] img {max-width: 100%!important; }\n\n/*Compatibility with resize images in editor add-on */\n    .resizer {min-width: 0%!important; }\n    .mobile .resizer {min-width:100%!important;}\n\n/*Image hover zoom*/\n#firstaid img:active { transform:scale(1.5); }\n#sketchy img:active { transform:scale(1.5); }\n#physeo img:active { transform:scale(1.5); }\n#additional img:active { transform:scale(1.5); }\n.mobile #firstaid img:active { transform:scale(1.0); }\n.mobile #sketchy img:active { transform:scale(1.0); }\n.mobile #physeo img:active { transform:scale(1.0); }\n.mobile #additional img:active { transform:scale(1.0); }\n\n/* Cloze format */\n.cloze { font-weight: bold; }\n\n/* Adjustments For Cloze Edit In Review On Mobile */\n.clozefield, .mobile .editcloze { display: none; }\n.editcloze, .mobile .clozefield { display:  block; }\n\n/* BEGIN HINT FIELDS */\n\n/* Hint Link */\na[href=\"#\"] {\n font-style: italic;\n padding: 0 !important;\n}\n\n/* Text When Hint Is Shown*/\n.hints { font-style: italic; }\n\n/* Put Bottom Hints Lower */\n#firstaid { padding-top: 40px!important; }\n/* #extra { padding-bottom: 40px!important; } */\n\n\n.hints + #extra { margin-top: 1rem; } /*add spacing between hints and extra field*/\n/* END HINT FIELDS  */\n\n/* EXTRA FIELD */\n#extra { font-style: italic; font-size: 1rem;}\n\n\n/* Fix to make pop-up dictionary images the right size */\n.qtip img {\n   max-width: 95% !important;\n   max-height: 95% !important;\n}\n\n/* Details for AnKing hyperlink image */\n#pic { opacity: 0.0; font-size: 16px; font-color: #F2E48E; font-family:Comic Sans!important; font-style:bold;}\n#pic:hover { opacity: 1; transition: opacity 0.2s ease; }\n.mobile #pic { display: none; }\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .1px;\n font-weight: bold;\n font-size: 10px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle !important;\n line-height: auto!important;\n height: auto!important;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336!important; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0!important; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5!important; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4!important; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688!important; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33!important; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800!important;}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722!important; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E!important; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B!important; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { display: inline-block; } \n.centerbox {text-align:center;}\n/*Start of style added by resize image add-on. Don't edit directly or the edition will be lost. Edit via the add-on configuration */\n.mobile .card img {height:unset  !important; width:unset  !important;}\n/*End of style added by resize image add-on*/",
+        "did": null,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Text",
+                "ord": 0,
+                "rtl": false,
+                "size": 16,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Extra",
+                "ord": 1,
+                "rtl": false,
+                "size": 16,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Lecture Notes",
+                "ord": 2,
+                "rtl": false,
+                "size": 16,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Missed Questions",
+                "ord": 3,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Pathoma",
+                "ord": 4,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Boards and Beyond",
+                "ord": 5,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "First Aid",
+                "ord": 6,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Sketchy",
+                "ord": 7,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Physeo",
+                "ord": 8,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Additional Resources",
+                "ord": 9,
+                "rtl": false,
+                "size": 18,
+                "sticky": false
+            }
+        ],
+        "id": 1661020707814,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661020707,
+        "name": "Cloze-AnKingMaster-04c54",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "<div class=clozefield>{{cloze:Text}}</div>\n\n<!-- EDIT CLOZE DURING REVIEW-change below to  \"edit:cloze:Text\" for editable field, but be sure to have the correct add-on installed-->\n<div class=editcloze>{{cloze:Text}}</div>\n\n<hr>\n\n{{#Lecture Notes}}<div class=hints id=lecture>{{hint:Lecture Notes}}</div>{{/Lecture Notes}}\n\n{{#Missed Questions}}<div class=hints id=missed>{{hint:Missed Questions}}</div>{{/Missed Questions}}\n\n{{#Pathoma}}<div class=hints id=pathoma>{{hint:Pathoma}}</div>{{/Pathoma}}\n\n{{#Boards and Beyond}}<div class=hints id=bnb>{{hint:Boards and Beyond}}</div>{{/Boards and Beyond}}\n\n{{#Extra}}<div id=extra>{{Extra}}</div>{{/Extra}}\n\n{{#First Aid}}<div class=hints id=firstaid>{{hint:First Aid}}</div>{{/First Aid}}\n\n{{#Sketchy}}<div class=hints id=sketchy>{{hint:Sketchy}}</div>{{/Sketchy}}\n\n{{#Physeo}}<div class=hints id=physeo>{{hint:Physeo}}</div>{{/Physeo}}\n\n{{#Additional Resources}}<div class=hints id=additional>{{hint:Additional Resources}}</div>{{/Additional Resources}}\n\n<br>\n<br>\n{{#Tags}}\n<div id=\"tags-container\">{{clickable::Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n\nfunction myFunction() {\n  var x = document.getElementById(\"tags-container\");\n\n    if (x.style.display \n=== \"none\") {\n    x.style.display = \"block\";\n  } else {\n    x.style.display = \n  \"none\";\n  }\n} \ndocument.addEventListener('keyup', function(e) {\n    if(e.key ==\"c\"){\n\t myFunction();\n    }\n});\n\n</script>\n{{/Tags}}\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>\n\n<!-- WIKIPEDIA SEARCHES -->\n    <div id=\"popup-container\">\n      <button id=\"close-popup-btn\" onclick=\"closePopup(true)\">&times;</button>\n      <a id=\"open-wiki-btn\" href=\"\">&#8618;</a>\n      <div id=\"tc\"></div> <div id=\"fadebottom_v\"></div>\n      <div id=\"ic\"><img id=\"popup-image\"></div>\n    </div>\n<style>\n#tc {\n  color: #222222;\n  position:absolute;\n  top: 16px;\n  margin:0px;\n  left:15px;\n  text-decoration: none;\n  height:320px;\n  overflow:hidden;\n  overflow-y:scroll;\n  white-space:pre-wrap;\n  width: 300px;\n}\n#tc p{\n  margin:0px;\n}\n#tc::-webkit-scrollbar{\n  display:none;\n} \n#fadebottom_v {\n  height: 30px;\n  width: 300px;\n  background: -webkit-linear-gradient(270deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 1));\n  z-index: 111;\n  position:absolute;\n  bottom:0px;\n  left:15px;\n}\n#hc{\n  color: #666;  \n  font-weight: bold;\n}\n#ic {\n  right:0px;\n  top:30px;\n  position:absolute;\n}\n#ic img{\n  width: 160px;\n  height:auto;\n  object-fit: cover;\n  overflow:hidden;\n}\n#popup-image {\n  width: 140px;\n  height: auto;\n}\n#popup-container {\n  background: #fff;\n  position: absolute;\n  bottom:30px;\n  right:10px;\n  z-index: 110;\n  -webkit-box-shadow: 0 30px 90px -20px rgba(0, 0, 0, 0.3), 0 0 1px 1px rgba(0, 0, 0, 0.05);\n  box-shadow: 0 30px 90px -20px rgba(0, 0, 0, 0.3), 0 0 1px 1px rgba(0, 0, 0, 0.05);\n  padding: 0;\n  display: none;\n  font-size: 17px;\n  line-height: 20px;\n  border-radius: 2px;\n  width: 480px;\n  height:340px;\n  overflow:hidden;\n  font-family: Arial;\n  text-align:left;\n  border: 1px solid #d0d0d0;\n  border-radius: 5px;\n}\n#close-popup-btn{\n  position:absolute;\n  top: 1px;\n  right:5px;\n  width: 32px;\n  height: 32px;\n  background: none;\n  border: 0;\n  cursor: pointer;\n  font-family: 'Josefin Sans', sans-serif;\n  font-size: 20px;\n  outline: none;\n  text-align:right;\n  z-index:112;\n}\n#open-wiki-btn{\n  position:absolute;\n  top: 10px;\n  right:30px;\n  width: 15px;\n  height: 32px;\n  background: none;\n  border: 0;\n  cursor: pointer;\n  text-decoration: none;\n  color:#222222;\n  font-family: 'Josefin Sans', sans-serif;\n  font-size: 17px;\n  outline: none;\n  text-align: left;\n  z-index:112;\n}\n</style>\n\n<script>\n      function getSummaryFor(word) {\n\t    word = word.replace(/^[\\.,\\/#\\!$%\\^&\\*;:{}=\\-_`~()\\'\\s]+|[\\.,\\/#\\!$%\\^&\\*;:{}=\\-_`~()\\'\\s]+$/g, \"\");\n             var pc = document.getElementById(\"popup-container\");\n   \t    var hc = document.getElementById(\"hc\");\n            var tc = document.getElementById(\"tc\");\n            var ic = document.getElementById(\"ic\");\n            var imgelem = document.getElementById(\"popup-image\");\n       \t    imgelem.src = \"\";\n            var shortsum =\"\";\n        fetch(\"https://en.wikipedia.org/api/rest_v1/page/summary/\" + word).then(function(response) {return response.json();}).then(function(response) {\n           shortsum = response.description;\n  \t   shortsum = shortsum.replace(/(Disambiguation.*)/g, \"Disambiguation\");\n            tc.innerHTML = \"<span id='hc'>\" +capfl(shortsum) + \"</span>\" +\"\\n\" +response.extract_html + \"\\n\";\n\t    tc.style.width = \"420px\";\n            if (response.extract_html && !response.extract.endsWith(\"to:\")){\n            \tpc.style.display = \"block\";\n\t        document.getElementById(\"open-wiki-btn\").href = response.content_urls.desktop.page;\n            }else{pc.style.display = \"none\";}\n            if (!response.thumbnail.source || response.type ===\"disambiguation\"){\n                 tc.style.width = \"420px\";\n            }else{tc.style.width=\"300px\";imgelem.src = response.thumbnail.source;}\n          }).catch(function(error) {console.log(error);});}\n\nfunction closePopup(deselectAlso=false){\n  pcc.style.display = 'none';\n  if (deselectAlso){clearSelection();}\n}\nvar pcc = document.getElementById(\"popup-container\");\nvar prevSel = \"\";\ndocument.addEventListener('click', function() {\n    var currentSelection = getSelectionText();\n    if (currentSelection !==\"\"){prevSel = currentSelection;}\n    if (currentSelection && !mustClickW ){\n    \tgetSummaryFor(currentSelection);\n     }else{closePopup();}\n});\ndocument.addEventListener('keyup', function(e) {\n    if(e.key ==\"w\"){\n\tif(pcc.style.display ===\"block\"){closePopup();}else{getSummaryFor(prevSel);}\n    }\n});\nfunction getSelectionText() {\n    var text = \"\";\n    if (window.getSelection) {\n        text = window.getSelection().toString();\n    } else if (document.selection && document.selection.type != \"Control\") { text = document.selection.createRange().text;}\n    return text;\n}\nfunction capfl(s) {\n    return s.charAt(0).toUpperCase() + s.slice(1);\n}\nfunction clearSelection(){\n if (window.getSelection) {window.getSelection().removeAllRanges();}\n else if (document.selection) {document.selection.empty();}\n}\n\n//CUSTOMIZATION\n//this is a variable controlling whether user must click the \"w\" key to open the popup.\n//if set to true: user must select text, then click the \"w\" key to open wikipedia popup. Clicking \"w\" key again will close the popup. \n//if set to false: user only needs to select text. popup will open automatically. Clicking \"w\" is an alternative but not obligatory way of opening/closing the popup in this mode.\n//BELOW SET to true or to false. \nvar mustClickW = true;\n//END CUSTOMIZATION\n    </script>",
+                "bafmt": "",
+                "bfont": "Arial",
+                "bqfmt": "",
+                "bsize": 12,
+                "did": null,
+                "name": "Cloze",
+                "ord": 0,
+                "qfmt": "<script>qFade=0; if (typeof anki !== 'undefined') anki.qFade=qFade;</script>\n\n{{edit:cloze:Text}}\n<div class=\"timer\" id=\"s2\"></div>\n<script>\n//USER CONFIGURATION START\n//Set Timer Length\nvar minutes = 0\nvar seconds = 9\n//USER CONFIGURATION END\n\nfunction countdown( elementName, minutes, seconds )\n{\n    var element, endTime, hours, mins, msLeft, time;\n    function twoDigits( n )\n    {\n        return (n <= 9 ? \"0\" + n : n); \n    }\n    function updateTimer()\n    {\n        msLeft = endTime - (+new Date);\n\n//USER CUSTOMIZATION- you can edit color and text of the 'time expired' readout under the element.innerHTML\n        if ( msLeft < 1000 ) {\n            element.innerHTML = \"<span style='color:#CC5B5B'>!<br/>!<br/>!<br/>!<br/>!<br/>!</span>\";\n        } else {\n            time = new Date( msLeft );\n            hours = time.getUTCHours();\n            mins = time.getUTCMinutes();\n            element.innerHTML = (hours ? hours + ':' + twoDigits( mins ) : mins) + ':' + twoDigits( time.getUTCSeconds() );\n            setTimeout( updateTimer, time.getUTCMilliseconds() + 500 );\n        }\n    }\n    element = document.getElementById( elementName );\n    endTime = (+new Date) + 1000 * (60*minutes + seconds) + 500;\n    updateTimer();\n}\ncountdown(\"s2\", minutes, seconds ); //2nd value is the minute, 3rd is the seconds\n</script>\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>\n\n{{#Tags}}\n<div id=\"tags-container\">{{clickable::Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\nif (tagContainer.innerHTML.indexOf(\"Missed\") != -1) {\ntagContainer.style.backgroundColor = \"rgba(251,11,11,.2)\";\n} else {\ntagContainer.style.display = \"none\";\n}\n</script>\n{{/Tags}}",
+                "scratchPad": false
+            }
+        ],
+        "type": 1,
+        "usn": -1,
+        "vers": []
+    }
+}
