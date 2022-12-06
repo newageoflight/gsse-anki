@@ -1,4 +1,4 @@
-NOTE: As I am no longer interested in pursuing a surgical career, I will not be managing this project (or maintaining this repository). If you are interested in taking over my role please [email me](mailto:camint3rnal@live.com).
+NOTE: As I am no longer interested in pursuing a surgical career, I will not be managing this project (or maintaining this repository). If you are interested in taking over my role as project lead please [email me](mailto:camint3rnal@live.com).
 
 # Anki for GSSE
 
